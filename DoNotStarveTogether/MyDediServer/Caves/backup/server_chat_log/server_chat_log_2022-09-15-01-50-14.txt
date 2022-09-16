@@ -1,0 +1,210 @@
+[00:25:19]: [Join Announcement] Silite
+[00:25:19]: [Join Announcement] mikkko
+[00:26:30]: [Join Announcement] 先輩！好きッス！
+[00:26:57]: [Join Announcement] 拉比
+[00:27:09]: [Join Announcement] 45egg
+[00:28:52]: [Death Announcement] 拉比 死亡，死因： 黑暗。她变成了一个令人毛骨悚然的鬼！
+[00:28:57]: [Say] (KU_H6259xgX) 拉比: emm
+[00:29:40]: [Resurrect Announcement] 拉比 复活自 第二次机会表.
+[00:30:19]: [Say] (KU_lTCHBkyy) 45egg: 没血了呜呜
+[00:30:29]: [Say] (KU_pvwb-Vrx) Silite: 睡棚子
+[00:30:51]: [Join Announcement] MoYu
+[00:31:02]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 玛丽有兔子
+[00:31:06]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 哪里
+[00:31:12]: [Say] (KU_pvwb-Vrx) Silite: 草地？
+[00:31:26]: [Say] (KU_pvwb-Vrx) Silite: 要准备素菜了
+[00:32:10]: [Say] (KU_lTCHBkyy) 45egg: #restart
+[00:32:27]: [Leave Announcement] 45egg
+[00:33:00]: [Say] (KU_H6259xgX) 拉比: 我需要腐烂物呜呜
+[00:33:37]: [Say] (KU_H6259xgX) 拉比: 我自己有三个
+[00:33:42]: [Join Announcement] 45egg
+[00:34:34]: [Leave Announcement] MoYu
+[00:34:40]: [Say] (KU_pvwb-Vrx) Silite: 我们出去逛逛吧，家里要没资源了
+[00:34:49]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 牛牛发情了
+[00:35:01]: [Say] (KU_H6259xgX) 拉比: 等我准备一下
+[00:35:23]: [Say] (KU_GoPRYhol) 先輩！好きッス！: ss哥哥 我帽子坏了
+[00:35:32]: [Join Announcement] MoYu
+[00:35:36]: [Say] (KU_pvwb-Vrx) Silite: 在等腐烂物
+[00:35:51]: [Say] (KU_pvwb-Vrx) Silite: 妖精哥哥在哪
+[00:35:55]: [Death Announcement] 45egg 死亡，死因： 眼球草。她变成了一个令人毛骨悚然的鬼！
+[00:36:28]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 探地图
+[00:36:38]: [Resurrect Announcement] 45egg 复活自 Silite.
+[00:37:02]: [Say] (KU_pvwb-Vrx) Silite: 鸡蛋做个伞
+[00:38:42]: [Say] (KU_pvwb-Vrx) Silite: 我做个鸟笼
+[00:39:04]: [Leave Announcement] MoYu
+[00:39:52]: [Join Announcement] MoYu
+[00:41:46]: [Death Announcement] 先輩！好きッス！ 死亡，死因： 时间流逝。她变成了一个令人毛骨悚然的鬼！
+[00:42:04]: [Resurrect Announcement] 先輩！好きッス！ 复活自 第二次机会表.
+[00:43:47]: [Death Announcement] 先輩！好きッス！ 死亡，死因： 时间流逝。她变成了一个令人毛骨悚然的鬼！
+[00:43:50]: [Resurrect Announcement] 先輩！好きッス！ 复活自 第二次机会表.
+[00:44:53]: [Say] (KU_lTCHBkyy) 45egg: 帐篷呜呜
+[00:45:00]: [Leave Announcement] MoYu
+[00:45:05]: [Say] (KU_H6259xgX) 拉比: 草
+[00:45:07]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 我带回来16个大肉
+[00:46:20]: [Say] (KU_H6259xgX) 拉比: Buka
+[00:46:23]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 冰箱呢
+[00:47:19]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 没金子喵
+[00:47:34]: [Say] (KU_pvwb-Vrx) Silite: 我们去换吧
+[00:47:51]: [Say] (KU_H6259xgX) 拉比: 我有13个
+[00:48:27]: [Say] (KU_lTCHBkyy) 45egg: 学
+[00:49:42]: [Say] (KU_GoPRYhol) 先輩！好きッス！: bi 我要金子
+[00:50:22]: [Skin Announcement] mikkko firestaff_meteor
+[00:50:37]: [Say] (KU_pvwb-Vrx) Silite: ?
+[00:52:40]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 被牛牛撅了
+[00:53:26]: [Say] (KU_lTCHBkyy) 45egg: #restart
+[00:53:27]: [Announcement] 45egg (薇洛) 重新开始!
+[01:00:21]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 我耳膜花瓣呢（
+[01:00:47]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 30个的（
+[01:01:01]: [Say] (KU_pvwb-Vrx) Silite: 我就在冰箱看到1个
+[01:01:12]: [Say] (KU_H6259xgX) 拉比: 看到一个高脚鸟巢
+[01:01:53]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 我去挖铥矿
+[01:02:18]: [Say] (KU_pvwb-Vrx) Silite: 狗子
+[01:03:49]: [Say] (KU_H6259xgX) 拉比: 我超
+[01:04:06]: [Say] (KU_H6259xgX) 拉比: 追我的高脚鸟和狗打起来了
+[01:04:13]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 草
+[01:04:23]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 偷蛋（
+[01:04:37]: [Say] (KU_H6259xgX) 拉比: 偷到了(
+[01:04:59]: [Say] (KU_H6259xgX) 拉比: 我捡到了20个腐烂物
+[01:05:49]: [Say] (KU_pvwb-Vrx) Silite: 培育下一代
+[01:06:23]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 我去挖铥矿
+[01:06:35]: [Say] (KU_GoPRYhol) 先輩！好きッス！: ss哥哥有矿工帽吗
+[01:06:42]: [Say] (KU_H6259xgX) 拉比: miko妈妈
+[01:06:51]: [Say] (KU_H6259xgX) 拉比: 针
+[01:07:49]: [Say] (KU_lTCHBkyy) 45egg: 要冻死了
+[01:08:30]: [Join Announcement] 铃科琉璃子
+[01:09:39]: [Say] (KU_H6259xgX) 拉比: 这个鸟蛋有什么用
+[01:09:53]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 服鸟
+[01:10:01]: [Say] (KU_H6259xgX) 拉比: 能吃吗
+[01:10:16]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 浮出来的鸟更你的
+[01:10:32]: [Say] (KU_H6259xgX) 拉比: 怎么孵蛋
+[01:10:42]: [Say] (KU_pvwb-Vrx) Silite: 火堆旁边
+[01:11:09]: [Say] (KU_H6259xgX) 拉比: 就放火旁边吗
+[01:11:19]: [Say] (KU_pvwb-Vrx) Silite: 别太热就好
+[01:11:56]: [Say] (KU_H6259xgX) 拉比: 你们谁还要针
+[01:12:11]: [Say] (KU_GoPRYhnc) 铃科琉璃子: 给我一针（
+[01:12:23]: [Say] (KU_GoPRYhol) 先輩！好きッス！: ss哥哥你有地底地图吗
+[01:12:33]: [Say] (KU_pvwb-Vrx) Silite: 没下去探过
+[01:12:36]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 哪里有铥矿
+[01:12:42]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 呜呜呜
+[01:13:00]: [Say] (KU_pvwb-Vrx) Silite: 铥矿还挺后面的
+[01:13:04]: [Say] (KU_H6259xgX) 拉比: 我又活了
+[01:13:12]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 你又可以了
+[01:15:17]: [Say] (KU_GoPRYhnc) 铃科琉璃子: 这个烤焦的锅是什么情况
+[01:15:30]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 被雷劈了
+[01:15:31]: [Say] (KU_H6259xgX) 拉比: 被雷劈了
+[01:16:11]: [Say] (KU_lTCHBkyy) 45egg: 有没有石头 锄头没了
+[01:16:21]: [Say] (KU_lTCHBkyy) 45egg: 呜呜呜
+[01:17:03]: [Skin Announcement] Silite legs_walter_ventriloquist
+[01:17:16]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 看看条纹内裤
+[01:18:09]: [Say] (KU_pvwb-Vrx) Silite: 有没有金子，做鸟笼，肉换蛋有肉就可以循环
+[01:18:17]: [Say] (KU_GoPRYhnc) 铃科琉璃子: 这要怎么种菜？
+[01:18:18]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 金子在箱子
+[01:18:21]: [Say] (KU_lTCHBkyy) 45egg: 好
+[01:18:23]: [Say] (KU_H6259xgX) 拉比: 没
+[01:19:18]: [Say] (KU_pvwb-Vrx) Silite: 要一个普通种子捏
+[01:21:13]: [Say] (KU_lTCHBkyy) 45egg: 好
+[01:21:59]: [Say] (KU_pvwb-Vrx) Silite: 妈妈打蜘蛛
+[01:22:23]: [Say] (KU_pvwb-Vrx) Silite: 孵化要有火
+[01:22:49]: [Say] (KU_pvwb-Vrx) Silite: 拉b去打蜘蛛吧
+[01:22:53]: [Say] (KU_pvwb-Vrx) Silite: 要没肉了
+[01:22:54]: [Say] (KU_H6259xgX) 拉比: 满血复活
+[01:23:04]: [Say] (KU_H6259xgX) 拉比: 马上
+[01:23:29]: [Say] (KU_lTCHBkyy) 45egg: 对 我拿了
+[01:24:46]: [Say] (KU_lTCHBkyy) 45egg: 可以点燃吗
+[01:24:55]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 地底太大啦
+[01:27:20]: [Say] (KU_lTCHBkyy) 45egg: 怎开垦啊
+[01:27:55]: [Say] (KU_lTCHBkyy) 45egg: 新的地怎么开呢
+[01:28:33]: [Say] (KU_GoPRYhnc) 铃科琉璃子: 有睡的吗（
+[01:28:46]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 好大啊
+[01:30:16]: [Say] (KU_H6259xgX) 拉比: 是不是有点卡起来了
+[01:30:36]: [Say] (KU_pvwb-Vrx) Silite: 我不卡诶
+[01:30:52]: [Say] (KU_H6259xgX) 拉比: 我挂个网
+[01:31:22]: [Say] (KU_lTCHBkyy) 45egg: 为什么我不能做饭啊QwQ
+[01:31:23]: [Leave Announcement] 拉比
+[01:32:20]: [Join Announcement] 拉比
+[01:33:17]: [Say] (KU_H6259xgX) 拉比: 有没有萤火虫
+[01:33:57]: [Say] (KU_lTCHBkyy) 45egg: 呜呜呜睡觉被雷批了
+[01:34:07]: [Say] (KU_pvwb-Vrx) Silite: kusa
+[01:34:11]: [Say] (KU_H6259xgX) 拉比: c
+[01:34:27]: [Say] (KU_lTCHBkyy) 45egg: 我没有 我不是
+[01:34:30]: [Say] (KU_pvwb-Vrx) Silite: 不怪妈妈
+[01:35:21]: [Death Announcement] 先輩！好きッス！ 死亡，死因： 时间流逝。她变成了一个令人毛骨悚然的鬼！
+[01:35:33]: [Say] (KU_pvwb-Vrx) Silite: 妖精有复活指令
+[01:35:36]: [Resurrect Announcement] 先輩！好きッス！ 复活自 第二次机会表.
+[01:36:10]: [Death Announcement] 先輩！好きッス！ 死亡，死因： 时间流逝。她变成了一个令人毛骨悚然的鬼！
+[01:36:38]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 呜呜呜
+[01:36:44]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 好大
+[01:36:45]: [Say] (KU_pvwb-Vrx) Silite: 地下好难
+[01:37:13]: [Say] (KU_GoPRYhol) 先輩！好きッス！: #resurrect
+[01:37:14]: [Resurrect Announcement] 先輩！好きッス！ 复活自 复活.
+[01:37:28]: [Say] (KU_H6259xgX) 拉比: 草
+[01:37:29]: [Death Announcement] 45egg 死亡，死因： 爬行的恐惧。她变成了一个令人毛骨悚然的鬼！
+[01:37:31]: [Say] (KU_pvwb-Vrx) Silite: qe转一转视角就好了
+[01:37:37]: [Say] (KU_lTCHBkyy) 45egg: 寄
+[01:37:53]: [Say] (KU_lTCHBkyy) 45egg: #restruct
+[01:37:53]: [Resurrect Announcement] 45egg 复活自 Silite.
+[01:38:21]: [Say] (KU_pvwb-Vrx) Silite: 要避雷喵
+[01:39:44]: [Say] (KU_H6259xgX) 拉比: 怎么看别人的饱食度什么的
+[01:40:10]: [Say] (KU_pvwb-Vrx) Silite: 牛牛
+[01:41:03]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 太大啦
+[01:41:53]: [Say] (KU_GoPRYhnc) 铃科琉璃子: tnnd我怎么变了？
+[01:48:35]: [Say] (KU_H6259xgX) 拉比: 木头都没了
+[01:48:54]: [Say] (KU_GoPRYhnc) 铃科琉璃子: 我天亮去砍一些吧
+[01:50:07]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 一库走
+[01:50:08]: [Say] (KU_pvwb-Vrx) Silite: 带吃的再下去
+[01:50:21]: [Say] (KU_H6259xgX) 拉比: 带我一个v
+[01:50:49]: [Leave Announcement] 拉比
+[01:51:08]: [Say] (KU_pvwb-Vrx) Silite: 拿肉丸触发
+[01:51:39]: [Join Announcement] 拉比
+[01:52:09]: [Say] (KU_pvwb-Vrx) Silite: 下来了嘛
+[01:52:27]: [Say] (KU_pvwb-Vrx) Silite: 等等拉b和鸡蛋吧
+[01:52:44]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 我在另一半
+[01:52:52]: [Say] (KU_pvwb-Vrx) Silite: lingke呢
+[01:53:15]: [Say] (KU_H6259xgX) 拉比: 要采什么吗
+[01:53:26]: [Say] (KU_pvwb-Vrx) Silite: 去找妖精吧
+[01:53:38]: [Say] (KU_pvwb-Vrx) Silite: 一会可以做头灯
+[01:54:34]: [Say] (KU_H6259xgX) 拉比: 我回去做个灯
+[01:54:39]: [Death Announcement] 45egg 死亡，死因： 兔人。她变成了一个令人毛骨悚然的鬼！
+[01:54:41]: [Death Announcement] mikkko 死亡，死因： 兔人。她变成了一个令人毛骨悚然的鬼！
+[01:55:00]: [Say] (KU_lTCHBkyy) 45egg: #restruct
+[01:55:09]: [Say] (KU_GoPRYhol) 先輩！好きッス！: wolaile
+[01:55:16]: [Say] (KU_UnXy3ttp) mikkko: #resurrect \
+[01:55:20]: [Say] (KU_UnXy3ttp) mikkko: #resurrect
+[01:55:21]: [Resurrect Announcement] mikkko 复活自 复活.
+[01:55:40]: [Say] (KU_lTCHBkyy) 45egg: #resurrect
+[01:55:43]: [Death Announcement] mikkko 死亡，死因： 深渊蠕虫。她变成了一个令人毛骨悚然的鬼！
+[01:56:01]: [Say] (KU_GoPRYhnc) 铃科琉璃子: 妈！！！！！！！！！
+[01:56:01]: [Say] (KU_GoPRYhol) 先輩！好きッス！: www
+[01:56:10]: [Say] (KU_pvwb-Vrx) Silite: 太危险了
+[01:56:12]: [Say] (KU_lTCHBkyy) 45egg: 兔子好可怕呜呜
+[01:56:26]: [Say] (KU_UnXy3ttp) mikkko: #resurrect
+[01:56:27]: [Resurrect Announcement] mikkko 复活自 复活.
+[01:56:52]: [Say] (KU_pvwb-Vrx) Silite: 回去吧
+[01:57:15]: [Say] (KU_GoPRYhnc) 铃科琉璃子: 我看见一个大虫子把妈妈杀了
+[01:57:49]: [Say] (KU_lTCHBkyy) 45egg: #resurret
+[01:58:03]: [Say] (KU_lTCHBkyy) 45egg: #resurrect
+[01:58:31]: [Resurrect Announcement] 45egg 复活自 Silite.
+[01:59:04]: [Say] (KU_pvwb-Vrx) Silite: 回家吧
+[02:00:06]: [Death Announcement] 45egg 死亡，死因： 燧石。她变成了一个令人毛骨悚然的鬼！
+[02:00:21]: [Say] (KU_lTCHBkyy) 45egg: 这地震吗 草
+[02:00:31]: [Say] (KU_pvwb-Vrx) Silite: 可以复活嘛
+[02:00:37]: [Say] (KU_H6259xgX) 拉比: 妈妈也从那出来了
+[02:00:51]: [Say] (KU_lTCHBkyy) 45egg: #resurrect
+[02:00:52]: [Resurrect Announcement] 45egg 复活自 复活.
+[02:00:56]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 太大了
+[02:01:14]: [Say] (KU_H6259xgX) 拉比: 那我挖点金子回去吧
+[02:01:39]: [Say] (KU_H6259xgX) 拉比: 好滴捏
+[02:01:49]: [Say] (KU_GoPRYhnc) 铃科琉璃子: 冰箱里有一点吃的
+[02:01:54]: [Death Announcement] Silite 死亡，死因： 黑蝙蝠。她变成了一个令人毛骨悚然的鬼！
+[02:02:08]: [Say] (KU_H6259xgX) 拉比: 左下
+[02:02:20]: [Resurrect Announcement] Silite 复活自 复活.
+[02:04:48]: [Skin Announcement] mikkko legs_wathgrithr_magma
+[02:07:58]: [Say] (KU_pvwb-Vrx) Silite: 完了没有冰做雪球发射机
+[02:08:30]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 我挖点
+[02:09:13]: [Say] (KU_GoPRYhol) 先輩！好きッス！: 有7个
+[02:09:28]: [Leave Announcement] 45egg
+[02:09:31]: [Leave Announcement] Silite
+[02:09:35]: [Leave Announcement] 铃科琉璃子
+[02:09:36]: [Leave Announcement] mikkko
+[02:10:04]: [Leave Announcement] 拉比
+[02:11:09]: [Leave Announcement] 先輩！好きッス！

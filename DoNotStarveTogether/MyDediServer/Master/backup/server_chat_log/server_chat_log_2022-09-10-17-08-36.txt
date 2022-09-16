@@ -1,0 +1,93 @@
+[00:06:33]: [Join Announcement] mikkko
+[00:06:51]: [Join Announcement] Silite
+[00:07:06]: [Join Announcement] XiuSe
+[00:07:34]: [Say] (KU_pvwb-Vrx) Silite: 等等一会一起进吧
+[00:09:02]: [Join Announcement] 铃科琉璃子
+[00:09:50]: [Join Announcement] 天暮
+[00:14:09]: [Say] (KU_SFlxJgtW) 天暮: 有人玩输出吗
+[00:14:26]: [Say] (KU_cbxrL7JN) XiuSe: 我玩旺达
+[00:18:25]: [Join Announcement] 拉比
+[00:25:06]: [Say] (KU_SFlxJgtW) 天暮: 1本随便放
+[00:27:28]: [Say] (KU_SFlxJgtW) 天暮:  我附近有1 巨大蜂窝。
+[00:27:53]: [Say] (KU_pvwb-Vrx) Silite: 我拍了1本，来做背包
+[00:28:11]: [Say] (KU_SFlxJgtW) 天暮: 太远了
+[00:28:20]: [Say] (KU_pvwb-Vrx) Silite: 我这边4个人
+[00:28:38]: [Say] (KU_SFlxJgtW) 天暮:  我附近有1 月亮石。
+[00:29:45]: [Say] (KU_SFlxJgtW) 天暮:  我附近有1 完全正常的树。
+[00:30:17]: [Death Announcement] 天暮 死亡，死因： 猪人守卫。他变成了一个令人毛骨悚然的鬼！
+[00:31:14]: [Say] (KU_SFlxJgtW) 天暮: 我刷会肉
+[00:33:56]: [Say] (KU_pvwb-Vrx) Silite: enen
+[00:34:01]: [Say] (KU_SFlxJgtW) 天暮: 能救一下不
+[00:34:17]: [Say] (KU_pvwb-Vrx) Silite: 我去
+[00:34:42]: [Say] (KU_H6259xgX) 拉比: 好远
+[00:35:18]: [Say] (KU_H6259xgX) 拉比: 这个战士吃不了花
+[00:35:26]: [Say] (KU_H6259xgX) 拉比: 怎么办
+[00:35:39]: [Say] (KU_pvwb-Vrx) Silite: 做肉丸
+[00:35:48]: [Say] (KU_pvwb-Vrx) Silite: 用那个锅子
+[00:37:12]: [Resurrect Announcement] 天暮 复活自 Silite.
+[00:37:20]: [Say] (KU_SFlxJgtW) 天暮: 谢谢
+[00:39:03]: [Leave Announcement] 天暮
+[00:39:39]: [Skin Announcement] mikkko body_wolfgang_wrestler
+[00:42:10]: [Say] (KU_pvwb-Vrx) Silite: 妈妈
+[00:43:17]: [Say] (KU_pvwb-Vrx) Silite: 拉b，一个大肉三个浆果什么素就可以做肉丸
+[00:43:39]: [Say] (KU_H6259xgX) 拉比: 懂了
+[00:49:05]: [Say] (KU_pvwb-Vrx) Silite: 选个中心的地方安家？
+[00:51:27]: [Say] (KU_pvwb-Vrx) Silite: 猫猫决定吧，弄个新家拍一本
+[00:51:54]: [Say] (KU_cbxrL7JN) XiuSe: 呜呜呜我被三只影怪打你们都不管我
+[00:52:28]: [Say] (KU_cbxrL7JN) XiuSe: 我打完啦 我要打噩梦燃料哈哈
+[00:52:30]: [Say] (KU_H6259xgX) 拉比: 不知道怎么救（
+[00:56:14]: [Say] (KU_H6259xgX) 拉比: 草
+[00:58:29]: [Say] (KU_pvwb-Vrx) Silite: 我回来啦
+[00:59:49]: [Say] (KU_pvwb-Vrx) Silite: 来门这里吧
+[01:00:57]: [Say] (KU_cbxrL7JN) XiuSe: 我们家建哪里啊
+[01:02:03]: [Join Announcement] 天暮
+[01:03:22]: [Say] (KU_cbxrL7JN) XiuSe: 给我个金子
+[01:03:26]: [Say] (KU_SFlxJgtW) 天暮:  我附近有17 金块。
+[01:03:33]: [Skin Announcement] 天暮 legs_pinstripe_pants_purple_violet
+[01:03:40]: [Say] (KU_SFlxJgtW) 天暮: 不要？
+[01:03:55]: [Say] (KU_cbxrL7JN) XiuSe: 一个就够啦
+[01:04:01]: [Say] (KU_SFlxJgtW) 天暮: 好的
+[01:04:15]: [Say] (KU_cbxrL7JN) XiuSe: 给我做个女武神的头嘞
+[01:04:22]: [Say] (KU_SFlxJgtW) 天暮: 怎么不做2本
+[01:04:30]: [Say] (KU_cbxrL7JN) XiuSe: 二本做那边了
+[01:04:42]: [Say] (KU_H6259xgX) 拉比: 差个浆果
+[01:04:56]: [Say] (KU_SFlxJgtW) 天暮: 我来
+[01:05:01]: [Say] (KU_SFlxJgtW) 天暮:  我需要 1 木板 来制造 炼金引擎。
+[01:05:33]: [Say] (KU_SFlxJgtW) 天暮: 放哪
+[01:06:04]: [Say] (KU_SFlxJgtW) 天暮:  我附近有1 炼金引擎。
+[01:06:29]: [Say] (KU_pvwb-Vrx) Silite: 要打肉了
+[01:07:01]: [Join Announcement] MoYu
+[01:07:31]: [Say] (KU_SFlxJgtW) 天暮:  我需要 3 个木板 来制造 箱子。
+[01:08:01]: [Skin Announcement] Silite legs_checkered_pleats_grey_slate
+[01:08:34]: [Say] (KU_SFlxJgtW) 天暮: 我有点卡，溜了
+[01:12:19]: [Leave Announcement] 天暮
+[01:15:17]: [Death Announcement] 拉比 死亡，死因： 爬行的恐惧。她变成了一个令人毛骨悚然的鬼！
+[01:15:41]: [Resurrect Announcement] 拉比 复活自 Silite.
+[01:16:20]: [Say] (KU_cbxrL7JN) XiuSe: 没有木板了嘛
+[01:19:27]: [Say] (KU_pvwb-Vrx) Silite: 便便施肥，就可以长出浆果
+[01:19:29]: [Say] (KU_cbxrL7JN) XiuSe: 为什么礼物打不开- -
+[01:19:34]: [Leave Announcement] 铃科琉璃子
+[01:20:42]: [Leave Announcement] 拉比
+[01:23:01]: [Skin Announcement] mikkko body_wolfgang_shadowp
+[01:23:24]: [Skin Announcement] XiuSe legs_skirt_pleated_blue_winter
+[01:25:54]: [Say] (KU_cbxrL7JN) XiuSe: 你去地下采荧光果上来给猪吃
+[01:30:01]: [Say] (KU_cbxrL7JN) XiuSe: 卧槽真下不去
+[01:30:10]: [Say] (KU_cbxrL7JN) XiuSe: 那我死惨了
+[01:30:44]: [Say] (KU_cbxrL7JN) XiuSe: 我做表的材料都在地下呜呜呜呜
+[01:31:24]: [Say] (KU_cbxrL7JN) XiuSe: 哎呀 我看不到你们再哪了。。
+[01:31:57]: [Say] (KU_cbxrL7JN) XiuSe: 我地图全黑掉了
+[01:32:29]: [Say] (KU_cbxrL7JN) XiuSe: 应该是看不到你们了
+[01:32:47]: [Say] (KU_pvwb-Vrx) Silite: 也看不到你呀
+[01:32:55]: [Say] (KU_cbxrL7JN) XiuSe: BUG了哈哈哈哈
+[01:34:01]: [Say] (KU_cbxrL7JN) XiuSe: 完了 我们不会不在一个世界吧
+[01:34:29]: [Say] (KU_pvwb-Vrx) Silite: 完了...重新进一下呢
+[01:34:48]: [Leave Announcement] XiuSe
+[01:36:18]: [Join Announcement] XiuSe
+[01:36:51]: [Say] (KU_cbxrL7JN) XiuSe: 完了我还是看不到你们
+[01:36:59]: [Say] (KU_cbxrL7JN) XiuSe: 呜呜呜呜我们不在一个世界我觉得
+[01:37:36]: [Say] (KU_cbxrL7JN) XiuSe: 我这里的资源全部都没动过
+[01:37:58]: [Say] (KU_cbxrL7JN) XiuSe: 你的服务器应该是多重世界的
+[01:40:08]: [Leave Announcement] Silite
+[01:40:15]: [Leave Announcement] MoYu
+[01:40:23]: [Leave Announcement] XiuSe
+[01:40:24]: [Leave Announcement] mikkko

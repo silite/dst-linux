@@ -1,0 +1,2180 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 39%
+	Available Physical Memory: 4921m/8191m
+	Available Page File: 12549m/16383m
+	Available Virtual Memory: 4013m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 10m
+	Working Set Size: 10m
+	Quota Peak Page Pool Usage: 154k
+	Quota Page Pool Usage: 151k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 13k
+	Page File Usage: 2m
+	Peak Page File Usage: 2m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 522521
+[00:00:00]: Current time: Mon Sep 12 19:22:22 2022
+
+[00:00:00]: Don't Starve Together: 522521 WIN32
+[00:00:00]: Build Date: 8116
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -conf_dir DoNotStarveTogether_EasyConfigOverworld -console 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (1632)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27018)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:0.73
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'Ping Job Thread' (14188)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together Dedicated Server\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (9560)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/adminlist.txt (Success)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows Server 2019 Datacenter
+    version                   10.0.17763
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  2
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      AMD EPYC Processor
+    manufacturer              AuthenticAMD
+    clockSpeed                2900
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      Microsoft 基本显示适配器
+    driverDate                20060621000000.000000-000
+    megsOfRam                 0
+    refreshRate               1
+    videoModeDescription      1024 x 768 x 4294967296 种颜色
+    driverVersion             10.0.17763.1
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x32
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:04]:   taskgrouplist:	default	联机版	
+[00:00:04]:   taskgrouplist:	classic	经典	
+[00:00:04]:   taskgrouplist:	cave_default	地下	
+[00:00:04]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:04]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:04]: Running main.lua
+	
+[00:00:04]: loaded modindex	
+[00:00:04]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: modoverrides.lua enabling workshop-1301033176	
+[00:00:05]: modoverrides.lua enabling workshop-347079953	
+[00:00:05]: modoverrides.lua enabling workshop-375850593	
+[00:00:05]: modoverrides.lua enabling workshop-1595631294	
+[00:00:05]: modoverrides.lua enabling workshop-365119238	
+[00:00:05]: modoverrides.lua enabling workshop-666155465	
+[00:00:05]: modoverrides.lua enabling workshop-378160973	
+[00:00:05]: modoverrides.lua enabling workshop-362175979	
+[00:00:05]: modoverrides.lua enabling workshop-462434129	
+[00:00:05]: modoverrides.lua enabling workshop-375859599	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1301033176	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462434129	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1301033176_CLIENT	
+[00:00:05]: Loading mod: workshop-1301033176 (中文语言包（服务器版）) Version:3.7.3	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:00:05]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:00:05]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
+[00:00:05]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:00:05]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:00:05]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-462434129_CLIENT	
+[00:00:05]: Loading mod: workshop-462434129 (Restart) Version:0.3.2	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:05]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:00:05]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:05]: Loading mod: workshop-375859599 (Health Info) Version:2.2.03	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:05]: Overriding mod workshop-347079953's option DFV_Language with value CN	
+[00:00:05]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:05]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:05]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option lang with value chs	
+[00:00:05]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:05]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:05]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:05]: Overriding mod workshop-378160973's option FIREOPTIONS with value 1	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 3	
+[00:00:05]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:05]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:00:05]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:00:05]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:00:05]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:00:05]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:05]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:00:05]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:05]: ShowMe version:	0.58	
+[00:00:05]: show_food_units	-1	-1	-1	
+[00:00:05]: show_uses	-1	-1	-1	
+[00:00:05]: Detected language for ShowMe: 	chs		
+[00:00:05]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:05]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:05]: Mod: workshop-1301033176 (中文语言包（服务器版）)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1301033176 (中文语言包（服务器版）)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1301033176 (中文语言包（服务器版）)	Loading modmain.lua	
+[00:00:05]: Translator:LoadPOFile - loading file: ../mods/workshop-1301033176/DST_chs.po	
+[00:00:06]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-462434129 (Restart)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-462434129 (Restart)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-462434129 (Restart)	Loading modmain.lua	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1301033176	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:07]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462434129	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:07]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:07]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:07]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:08]: LOADING LUA SUCCESS
+[00:00:08]: Registering Server mod namespace "workshop-378160973"
+[00:00:08]: Registering Server mod namespace "food item"
+[00:00:08]: Registering Server mod namespace "showmeshint"
+[00:00:08]: Registering Server mod namespace "showme"
+[00:00:08]: PlayerDeaths could not load morgue	
+[00:00:08]: PlayerHistory could not load player_history	
+[00:00:08]: ServerPreferences could not load server_preferences	
+[00:00:08]: ConsoleScreenSettings could not load consolescreen	
+[00:00:08]: bloom_enabled	true	
+[00:00:08]: OnFilesLoaded()	
+[00:00:08]: OnUpdatePurchaseStateComplete	
+[00:00:08]: Klump load on boot started.	
+[00:00:08]: Klump files loaded: 	0	
+[00:00:11]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:00:11]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:00:11]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:00:11]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:11]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:11]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-1301033176 (中文语言包（服务器版）)	Registering prefabs	
+[00:00:11]: Mod: workshop-1301033176 (中文语言包（服务器版）)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:11]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-462434129 (Restart)	Registering prefabs	
+[00:00:11]: Mod: workshop-462434129 (Restart)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:11]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:11]: 	Load FE	
+[00:00:13]: 	Load FE: done	
+[00:00:13]: THREAD - started 'FilesExistAsyncThread' (11568)
+[00:00:13]: Check for write access: TRUE
+[00:00:13]: FilesExistAsyncThread started (20374 files)...
+[00:00:13]: Check for read access: TRUE
+[00:00:13]: Available disk space for save files: 9786 MB
+[00:00:14]: ModIndex: Load sequence finished successfully.	
+[00:00:14]: Reset() returning
+[00:00:14]: [200] Account Communication Success (6)
+[00:00:14]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether_EasyConfigOverworld/Cluster_1/Master/save/cached_userid
+[00:00:14]: Received (KU_pvwb-Vrx) from TokenPurpose
+[00:00:14]: Starting Dedicated Server Game	
+[00:00:14]: Network tick rate: U=15(2), D=0
+[00:00:14]: About to start a server with the following settings:
+[00:00:14]:   Dedicated: true
+[00:00:14]:   Online: true
+[00:00:14]:   Passworded: true
+[00:00:14]:   ServerPort: 10999
+[00:00:14]:   SteamAuthPort: 8768
+[00:00:14]:   SteamMasterServerPort: 27018
+[00:00:14]:   ClanID: false
+[00:00:14]:   ClanOnly: false
+[00:00:14]:   ClanAdmin: false
+[00:00:14]:   LanOnly: false
+[00:00:14]:   FriendsOnly: false
+[00:00:14]:   EnableAutosaver: true
+[00:00:14]:   EncodeUserPath: true
+[00:00:14]:   PVP: false
+[00:00:14]:   MaxPlayers: 64
+[00:00:14]:   GameMode: endless
+[00:00:14]:   OverridenDNS: 
+[00:00:14]:   PauseWhenEmpty: true
+[00:00:14]:   IdleTimeout: 1800s
+[00:00:14]:   VoteEnabled: true
+[00:00:14]:   InternetBroadcasting: true
+[00:00:14]:   Intent: cooperative
+[00:00:14]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:14]: Online Server Started on port: 10999
+[00:00:14]: SUCCESS: Loaded modoverrides.lua	
+[00:00:14]: Not applying level data overrides.	
+[00:00:14]: Not applying world gen overrides.	
+[00:00:14]: Collecting garbage...
+[00:00:15]: lua_gc took 0.23 seconds
+[00:00:15]: ~ShardLuaProxy()
+[00:00:15]: ~cEventLeaderboardProxy()
+[00:00:15]: ~ItemServerLuaProxy()
+[00:00:15]: ~InventoryLuaProxy()
+[00:00:15]: ~NetworkLuaProxy()
+[00:00:15]: ~SimLuaProxy()
+[00:00:15]: FilesExistAsyncThread aborted.
+[00:00:15]: ... FilesExistAsyncThread complete
+[00:00:15]: lua_close took 0.24 seconds
+[00:00:15]: ReleaseAll
+[00:00:15]: ReleaseAll Finished
+[00:00:15]: cGame::StartPlaying
+[00:00:15]: AppVersion::GetArchitecture() x32
+[00:00:15]: LOADING LUA
+[00:00:15]: DoLuaFile scripts/main.lua
+[00:00:15]: DoLuaFile loading buffer scripts/main.lua
+[00:00:15]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:17]:   taskgrouplist:	default	联机版	
+[00:00:17]:   taskgrouplist:	classic	经典	
+[00:00:17]:   taskgrouplist:	cave_default	地下	
+[00:00:17]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:17]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:17]: Running main.lua
+	
+[00:00:17]: loaded modindex	
+[00:00:17]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:17]: SUCCESS: Loaded modoverrides.lua	
+[00:00:17]: modoverrides.lua enabling workshop-1301033176	
+[00:00:17]: modoverrides.lua enabling workshop-347079953	
+[00:00:17]: modoverrides.lua enabling workshop-375850593	
+[00:00:17]: modoverrides.lua enabling workshop-1595631294	
+[00:00:17]: modoverrides.lua enabling workshop-365119238	
+[00:00:17]: modoverrides.lua enabling workshop-666155465	
+[00:00:17]: modoverrides.lua enabling workshop-378160973	
+[00:00:17]: modoverrides.lua enabling workshop-362175979	
+[00:00:17]: modoverrides.lua enabling workshop-462434129	
+[00:00:17]: modoverrides.lua enabling workshop-375859599	
+[00:00:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1301033176	
+[00:00:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462434129	
+[00:00:17]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:17]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:17]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:17]: Could not load mod_config_data/modconfiguration_workshop-1301033176	
+[00:00:17]: Loading mod: workshop-1301033176 (中文语言包（服务器版）) Version:3.7.3	
+[00:00:17]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:17]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:17]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:17]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:17]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:17]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:17]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:00:17]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:00:17]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:00:17]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:17]: Could not load mod_config_data/modconfiguration_workshop-462434129	
+[00:00:17]: Loading mod: workshop-462434129 (Restart) Version:0.3.2	
+[00:00:17]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:17]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:17]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:17]: Loading mod: workshop-375859599 (Health Info) Version:2.2.03	
+[00:00:17]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:17]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:00:17]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:17]: Overriding mod workshop-347079953's option DFV_Language with value CN	
+[00:00:17]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:17]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:17]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:17]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:17]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:00:17]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:17]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:17]: Overriding mod workshop-666155465's option lang with value chs	
+[00:00:17]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:17]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:17]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:17]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:17]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:17]: Overriding mod workshop-378160973's option FIREOPTIONS with value 1	
+[00:00:17]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:17]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:17]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:17]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:17]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 3	
+[00:00:17]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:17]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:00:17]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:17]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:00:17]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:00:17]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:00:17]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:00:17]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:17]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:00:17]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:17]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:17]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:17]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:17]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:17]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:00:17]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:17]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:17]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:00:18]: ShowMe version:	0.58	
+[00:00:18]: show_food_units	-1	-1	-1	
+[00:00:18]: show_uses	-1	-1	-1	
+[00:00:18]: Detected language for ShowMe: 	chs		
+[00:00:18]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:18]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:18]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:18]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:18]: Mod: workshop-1301033176 (中文语言包（服务器版）)	Loading modworldgenmain.lua	
+[00:00:18]: Mod: workshop-1301033176 (中文语言包（服务器版）)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:18]: Mod: workshop-1301033176 (中文语言包（服务器版）)	Loading modmain.lua	
+[00:00:18]: Translator:LoadPOFile - loading file: ../mods/workshop-1301033176/DST_chs.po	
+[00:00:19]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:00:19]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:19]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:19]: Mod: workshop-462434129 (Restart)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-462434129 (Restart)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:19]: Mod: workshop-462434129 (Restart)	Loading modmain.lua	
+[00:00:19]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:19]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1301033176	
+[00:00:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462434129	
+[00:00:19]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:19]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:19]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:19]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:19]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:23]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:23]: LOADING LUA SUCCESS
+[00:00:23]: Registering Server mod namespace "workshop-378160973"
+[00:00:23]: Registering Server mod namespace "food item"
+[00:00:23]: Registering Server mod namespace "showmeshint"
+[00:00:23]: Registering Server mod namespace "showme"
+[00:00:23]: PlayerDeaths could not load morgue	
+[00:00:23]: PlayerHistory could not load player_history	
+[00:00:23]: ServerPreferences could not load server_preferences	
+[00:00:23]: ConsoleScreenSettings could not load consolescreen	
+[00:00:23]: bloom_enabled	true	
+[00:00:23]: OnFilesLoaded()	
+[00:00:23]: OnUpdatePurchaseStateComplete	
+[00:00:23]: Loading world: session/58DD4C21B0D12AE0/0000000044	
+[00:00:23]: Save file is at version 5.12	
+[00:00:23]: Klump load on boot started.	
+[00:00:23]: Klump files loaded: 	0	
+[00:00:24]: 	Unload FE	
+[00:00:24]: 	Unload FE done	
+[00:00:41]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:00:41]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:00:41]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:00:41]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:00:41]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:00:41]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:00:41]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:41]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:41]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:41]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:41]: Mod: workshop-1301033176 (中文语言包（服务器版）)	Registering prefabs	
+[00:00:41]: Mod: workshop-1301033176 (中文语言包（服务器版）)	  Registering default mod prefab	
+[00:00:41]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:41]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-462434129 (Restart)	Registering prefabs	
+[00:00:42]: Mod: workshop-462434129 (Restart)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:42]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:42]: 	LOAD BE	
+[00:00:51]: 	LOAD BE: done	
+[00:00:52]: Begin Session: 58DD4C21B0D12AE0
+[00:00:52]: saving to server_temp/server_save	
+[00:00:52]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:52]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:52]: modimport: ../mods/workshop-666155465/showme_chs.lua	
+[00:00:52]: <Restart> Get your language from language mod!	
+[00:00:52]: modimport: ../mods/workshop-462434129/restart_chs.lua	
+[00:00:52]: Loading 19 new character(s)	
+[00:00:53]: Total 19 character(s) loaded	
+[00:00:53]: Loading Nav Grid	
+[00:00:53]: World generated on build 522362 with save version: 5.12, using seed: 1662778836	
+[00:00:53]: setting 	summerlength	15	
+[00:00:53]: setting 	cavemoonphase	half	
+[00:00:53]: setting 	iscavefullmoon	false	
+[00:00:53]: setting 	isnightmaredawn	false	
+[00:00:53]: setting 	elapseddaysinseason	6	
+[00:00:53]: setting 	isfullmoon	false	
+[00:00:53]: setting 	moisture	979.28631591797	
+[00:00:53]: setting 	cavephase	day	
+[00:00:53]: setting 	iscavewaxingmoon	true	
+[00:00:53]: setting 	isnightmarewild	false	
+[00:00:53]: setting 	nightmaretimeinphase	0	
+[00:00:53]: setting 	precipitationrate	0	
+[00:00:53]: setting 	iswet	false	
+[00:00:53]: setting 	isnewmoon	false	
+[00:00:53]: setting 	precipitation	none	
+[00:00:53]: setting 	israining	false	
+[00:00:53]: setting 	isnightmarewarn	false	
+[00:00:53]: setting 	iswinter	true	
+[00:00:53]: setting 	season	winter	
+[00:00:53]: setting 	remainingdaysinseason	9	
+[00:00:53]: setting 	winterlength	15	
+[00:00:53]: setting 	iscaveday	true	
+[00:00:53]: setting 	moistureceil	1694.6522216797	
+[00:00:53]: setting 	isday	true	
+[00:00:53]: setting 	springlength	20	
+[00:00:53]: setting 	wetness	0	
+[00:00:53]: setting 	iscavedusk	false	
+[00:00:53]: setting 	isalterawake	false	
+[00:00:53]: setting 	isnightmarecalm	false	
+[00:00:53]: setting 	isnight	false	
+[00:00:53]: setting 	isdusk	false	
+[00:00:53]: setting 	isspring	false	
+[00:00:53]: setting 	isautumn	false	
+[00:00:53]: setting 	issnowing	false	
+[00:00:53]: setting 	iswaxingmoon	true	
+[00:00:53]: setting 	phase	day	
+[00:00:53]: setting 	snowlevel	1	
+[00:00:53]: setting 	issnowcovered	true	
+[00:00:53]: setting 	autumnlength	20	
+[00:00:53]: setting 	pop	0.15089423555484	
+[00:00:53]: setting 	nightmaretime	0	
+[00:00:53]: setting 	seasonprogress	0.4	
+[00:00:53]: setting 	moonphase	half	
+[00:00:53]: setting 	nightmarephase	none	
+[00:00:53]: setting 	cycles	26	
+[00:00:53]: setting 	timeinphase	0.46713465372721	
+[00:00:53]: setting 	iscavenight	false	
+[00:00:53]: setting 	iscavenewmoon	false	
+[00:00:53]: setting 	issummer	false	
+[00:00:53]: setting 	temperature	-18.531751618571	
+[00:00:53]: setting 	time	0.14597957928975	
+[00:00:54]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:54]: Some objects are not supported by the mod.	
+[00:00:54]: Unknown objects: boat_pirate	
+[00:00:54]: You can enable these objects if you change the option "Unknown Objects".	
+[00:00:54]: See more info at http://steamcommunity.com/workshop/filedetails/discussion/375859599/343787283764426976/	
+[00:00:54]: --------------------------------------------------------	
+[00:00:55]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:55]: Unknown objects: lightcrab	
+[00:00:59]: Reconstructing topology	
+[00:00:59]: 	...Sorting points	
+[00:00:59]: 	...Sorting edges	
+[00:00:59]: 	...Connecting nodes	
+[00:00:59]: 	...Validating connections	
+[00:00:59]: 	...Housekeeping	
+[00:00:59]: 	...Done!	
+[00:00:59]: 1 uploads added to server. From server_temp
+[00:00:59]: About to start a shard with these settings:
+[00:00:59]:   ShardName: [SHDMASTER]
+[00:00:59]:   ShardID: 1
+[00:00:59]:   ShardRole: MASTER
+[00:00:59]:   MasterHost: (null)
+[00:00:59]:   MasterBind: 127.0.0.1
+[00:00:59]:   MasterPort: 10889
+[00:00:59]: [Shard] Starting master server
+[00:00:59]: [Warning] Could not confirm port 10889 is open in the firewall. 
+[00:00:59]: [Shard] Shard server started on port: 10889
+[00:00:59]: Telling Client our new session identifier: 58DD4C21B0D12AE0
+[00:00:59]: Check for write access: TRUE
+[00:00:59]: Check for read access: TRUE
+[00:00:59]: Available disk space for save files: 9786 MB
+[00:00:59]: ModIndex: Load sequence finished successfully.	
+[00:01:00]: Reset() returning
+[00:01:01]: Validating portal[5] <-> 3771146703[5] (inactive)	
+[00:01:01]: Validating portal[7] <-> 3771146703[7] (inactive)	
+[00:01:01]: Validating portal[4] <-> 3771146703[4] (inactive)	
+[00:01:01]: Validating portal[8] <-> 3771146703[8] (inactive)	
+[00:01:01]: Validating portal[10] <-> 3771146703[10] (inactive)	
+[00:01:01]: Validating portal[1] <-> 3771146703[1] (inactive)	
+[00:01:01]: Validating portal[6] <-> 3771146703[6] (inactive)	
+[00:01:01]: Validating portal[9] <-> 3771146703[9] (inactive)	
+[00:01:01]: Validating portal[2] <-> 3771146703[2] (inactive)	
+[00:01:01]: Validating portal[3] <-> 3771146703[3] (inactive)	
+[00:01:01]: Could not find anim build FROMNUM
+[00:01:01]: Could not find anim build FROMNUM
+[00:01:01]: Could not find anim build FROMNUM
+[00:01:01]: Could not find anim build FROMNUM
+[00:01:01]: Could not find anim build FROMNUM
+[00:01:01]: Server registered via geo DNS in Sing
+[00:01:01]: Sim paused
+[00:01:02]: [Shard] Secondary shar caves(3771146703) connected: [LAN] 127.0.0.1
+[00:01:03]: [Shard] Secondary caves(3771146703) ready!
+[00:01:03]: World 3771146703 is now connected	
+[00:01:03]: Validating portal[5] <-> 3771146703[5] (active)	
+[00:01:03]: Validating portal[7] <-> 3771146703[7] (active)	
+[00:01:03]: Validating portal[4] <-> 3771146703[4] (active)	
+[00:01:03]: Validating portal[8] <-> 3771146703[8] (disabled)	
+[00:01:03]: Validating portal[10] <-> 3771146703[10] (disabled)	
+[00:01:03]: Validating portal[1] <-> 3771146703[1] (disabled)	
+[00:01:03]: Validating portal[6] <-> 3771146703[6] (disabled)	
+[00:01:03]: Validating portal[9] <-> 3771146703[9] (disabled)	
+[00:01:03]: Validating portal[2] <-> 3771146703[2] (active)	
+[00:01:03]: Validating portal[3] <-> 3771146703[3] (active)	
+[00:08:41]: New incoming connection 130.62.87.95|49965 <2892733305870639428>
+[00:08:41]: Client connected from 130.62.87.95|49965 <2892733305870639428>
+[00:08:41]: ValidateGameSessionToken GUID<2892733305870639428>
+[00:08:42]: Client authenticated: (KU_vCuBSuGz) bakamitai
+[00:08:43]: [Steam] SendUserConnectAndAuthenticate for '76561198399061110'
+[00:08:43]: [Steam] Authenticated client '76561198399061110'
+[00:08:47]: There is no active event to validate against.
+[00:08:47]: [Shard] Read save location file for (KU_vCuBSuGz)
+[00:10:17]: [Steam] SendUserDisconnect for '76561198399061110'
+[00:10:17]: Connection lost to 130.62.87.95|49965 <2892733305870639428>
+[00:10:17]: [Shard] (KU_vCuBSuGz) disconnected from [SHDMASTER](1)
+[00:10:52]: New incoming connection 122.10.159.109|21289 <1147623532615726125>
+[00:10:52]: Client connected from 122.10.159.109|21289 <1147623532615726125>
+[00:10:52]: ValidateGameSessionToken GUID<1147623532615726125>
+[00:10:52]: Client authenticated: (KU_GoPRYhnc) 铃科琉璃子
+[00:10:52]: [Steam] SendUserConnectAndAuthenticate for '76561199012036761'
+[00:10:53]: [Steam] Authenticated client '76561199012036761'
+[00:10:54]: There is no active event to validate against.
+[00:10:54]: [Shard] Read save location file for (KU_GoPRYhnc)
+[00:11:07]: New incoming connection 130.62.87.95|58812 <5743497696166028204>
+[00:11:07]: Client connected from 130.62.87.95|58812 <5743497696166028204>
+[00:11:07]: ValidateGameSessionToken GUID<5743497696166028204>
+[00:11:08]: Client authenticated: (KU_vCuBSuGz) bakamitai
+[00:11:09]: [Steam] SendUserConnectAndAuthenticate for '76561198399061110'
+[00:11:09]: [Steam] Authenticated client '76561198399061110'
+[00:11:14]: Resuming user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000037
+[00:11:14]: Spawning player at: [Load] (9.54, 0.00, -5.81)	
+[00:11:14]: Sim unpaused
+[00:11:15]: There is no active event to validate against.
+[00:11:15]: [Shard] Read save location file for (KU_vCuBSuGz)
+[00:11:35]: [Steam] SendUserDisconnect for '76561198399061110'
+[00:11:35]: Connection lost to 130.62.87.95|58812 <5743497696166028204>
+[00:11:35]: [Shard] (KU_vCuBSuGz) disconnected from [SHDMASTER](1)
+[00:11:54]: [Steam] SendUserDisconnect for '76561199012036761'
+[00:11:54]: [Shard] (KU_GoPRYhnc) disconnected from [SHDMASTER](1)
+[00:11:54]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000045
+[00:11:54]: Sim paused
+[00:13:41]: New incoming connection 153.240.19.132|37704 <5946211871519001059>
+[00:13:41]: Client connected from 153.240.19.132|37704 <5946211871519001059>
+[00:13:41]: ValidateGameSessionToken GUID<5946211871519001059>
+[00:13:41]: Client authenticated: (KU_UnXy3ttp) mikkko
+[00:13:42]: [Steam] SendUserConnectAndAuthenticate for '76561198828631579'
+[00:13:42]: [Steam] Authenticated client '76561198828631579'
+[00:13:43]: There is no active event to validate against.
+[00:13:43]: [Shard] Read save location file for (KU_UnXy3ttp)
+[00:13:59]: New incoming connection 129.227.113.133|63692 <6764235549081564327>
+[00:13:59]: Client connected from 129.227.113.133|63692 <6764235549081564327>
+[00:13:59]: ValidateGameSessionToken GUID<6764235549081564327>
+[00:14:00]: Client authenticated: (KU_pvwb-Vrx) Silite
+[00:14:00]: [Steam] Authenticated host '76561198110731779'
+[00:14:02]: There is no active event to validate against.
+[00:14:02]: [Shard] Read save location file for (KU_pvwb-Vrx)
+[00:14:11]: Resuming user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000041
+[00:14:11]: Spawning player at: [Load] (8.43, -0.00, -2.39)	
+[00:14:11]: Sim unpaused
+[00:14:21]: Resuming user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000037
+[00:14:21]: Spawning player at: [Load] (10.29, -0.00, -3.51)	
+[00:14:23]: New incoming connection 122.10.156.62|30134 <2449700129049180189>
+[00:14:23]: Client connected from 122.10.156.62|30134 <2449700129049180189>
+[00:14:23]: ValidateGameSessionToken GUID<2449700129049180189>
+[00:14:23]: Client authenticated: (KU_vCuBSuGz) bakamitai
+[00:14:23]: [Steam] SendUserConnectAndAuthenticate for '76561198399061110'
+[00:14:24]: [Steam] Authenticated client '76561198399061110'
+[00:14:24]: There is no active event to validate against.
+[00:14:24]: [Shard] Read save location file for (KU_vCuBSuGz)
+[00:14:36]: Could not find anim build FROMNUM
+[00:14:39]: New incoming connection 122.10.159.109|51420 <4377615493597417198>
+[00:14:39]: Client connected from 122.10.159.109|51420 <4377615493597417198>
+[00:14:39]: ValidateGameSessionToken GUID<4377615493597417198>
+[00:14:39]: Client authenticated: (KU_GoPRYhnc) 铃科琉璃子
+[00:14:39]: [Steam] SendUserConnectAndAuthenticate for '76561199012036761'
+[00:14:40]: [Steam] Authenticated client '76561199012036761'
+[00:14:40]: There is no active event to validate against.
+[00:14:40]: [Shard] Read save location file for (KU_GoPRYhnc)
+[00:14:44]: Could not find anim build FROMNUM
+[00:14:44]: Resuming user: session/58DD4C21B0D12AE0/A7N4PO5N711T
+[00:15:00]: Resuming user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000045
+[00:15:00]: Spawning player at: [Load] (3.43, 0.00, -4.10)	
+[00:15:38]: Spawn request: woodie from bakamitai
+[00:15:38]: Skin request: () () () () ()
+[00:15:38]: Spawning player at: [Fixed] (-138.00, 0.00, -94.00)	
+[00:15:38]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000045
+[00:16:15]: New incoming connection 120.243.179.229|44551 <998990975802589577>
+[00:16:15]: Client connected from 120.243.179.229|44551 <998990975802589577>
+[00:16:15]: ValidateGameSessionToken GUID<998990975802589577>
+[00:16:16]: Client authenticated: (KU_GoPRYhoT) MoYu
+[00:16:16]: [Steam] SendUserConnectAndAuthenticate for '76561199026636478'
+[00:16:17]: [Steam] Authenticated client '76561199026636478'
+[00:16:18]: There is no active event to validate against.
+[00:16:18]: [Shard] Read save location file for (KU_GoPRYhoT)
+[00:16:45]: Resuming user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000013
+[00:16:45]: Spawning player at: [Load] (57.21, -0.00, -6.43)	
+[00:16:57]: Could not find anim build FROMNUM
+[00:17:14]: Could not find anim build FROMNUM
+[00:17:17]: Could not find anim build FROMNUM
+[00:17:18]: Could not find anim build FROMNUM
+[00:17:20]: Could not find anim [death] in bank [ghost]
+[00:17:20]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000045
+[00:17:23]: Could not find anim build FROMNUM
+[00:17:25]: Could not find anim build FROMNUM
+[00:17:30]: Could not find anim build FROMNUM
+[00:17:30]: Could not find anim build FROMNUM
+[00:17:31]: Could not find anim build FROMNUM
+[00:17:44]: Could not find anim [idle_loop] in bank [ghost]
+[00:17:47]: Could not find anim [transform] in bank [wilson]
+[00:17:48]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000045
+[00:18:12]: Could not find anim build FROMNUM
+[00:18:25]: Could not find anim build FROMNUM
+[00:19:06]: Could not find anim build FROMNUM
+[00:19:10]: Could not find anim build FROMNUM
+[00:19:15]: Could not find anim build FROMNUM
+[00:19:47]: Could not find anim build FROMNUM
+[00:19:52]: Could not find anim build FROMNUM
+[00:20:02]: Could not find anim build FROMNUM
+[00:20:10]: Could not find anim build FROMNUM
+[00:20:18]: Could not find anim build FROMNUM
+[00:20:21]: Could not find anim build FROMNUM
+[00:20:22]: Available disk space for save files: 9784 MB
+[00:20:23]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000045
+[00:20:23]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000045
+[00:20:23]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000045
+[00:20:23]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000045
+[00:20:23]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000045
+[00:20:23]: Serializing world: session/58DD4C21B0D12AE0/0000000045
+[00:20:57]: Could not find anim build FROMNUM
+[00:21:00]: Could not find anim build FROMNUM
+[00:21:04]: Could not find anim build FROMNUM
+[00:21:19]: Could not find anim build FROMNUM
+[00:21:53]: Could not find anim build FROMNUM
+[00:22:06]: Could not find anim build FROMNUM
+[00:23:09]: [P2P] Session request for '76561198962565865'
+[00:23:09]: New incoming connection 47.57.246.239|37949 <3907004702745951876>
+[00:23:09]: Client connected from 47.57.246.239|37949 <3907004702745951876>
+[00:23:09]: ValidateGameSessionToken GUID<3907004702745951876>
+[00:23:10]: Client authenticated: (KU_H6259xgX) 拉比
+[00:23:10]: [Steam] SendUserConnectAndAuthenticate for '76561198962565865'
+[00:23:11]: [Steam] Authenticated client '76561198962565865'
+[00:23:12]: There is no active event to validate against.
+[00:23:12]: [Shard] Read save location file for (KU_H6259xgX)
+[00:23:13]: [P2P] Create session: 19.87.80.91|1 '76561198962565865'
+[00:23:13]: [P2P] Received from 19.87.80.91|1 '76561198962565865'
+[00:23:13]: [P2P] Sent to 19.87.80.91|1 '76561198962565865'
+[00:23:51]: Resuming user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000038
+[00:23:51]: Spawning player at: [Load] (3.52, -0.00, -4.39)	
+[00:23:54]: Could not find anim build FROMNUM
+[00:23:57]: Could not find anim build FROMNUM
+[00:24:11]: Could not find anim build FROMNUM
+[00:24:16]: Could not find anim build FROMNUM
+[00:24:20]: Could not find anim build FROMNUM
+[00:24:51]: Could not find anim build FROMNUM
+[00:26:50]: Could not find anim build FROMNUM
+[00:27:02]: Could not find anim build FROMNUM
+[00:27:14]: Could not find anim build FROMNUM
+[00:27:15]: Could not find anim build FROMNUM
+[00:27:16]: Could not find anim build FROMNUM
+[00:27:17]: Could not find anim build FROMNUM
+[00:27:21]: Could not find anim build FROMNUM
+[00:28:23]: Available disk space for save files: 9780 MB
+[00:28:23]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000046
+[00:28:23]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000046
+[00:28:23]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000046
+[00:28:23]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000046
+[00:28:23]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000046
+[00:28:23]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000046
+[00:28:24]: Serializing world: session/58DD4C21B0D12AE0/0000000046
+[00:28:28]: Could not find anim build FROMNUM
+[00:28:57]: Could not find anim build FROMNUM
+[00:28:59]: Could not find anim build FROMNUM
+[00:29:07]: Could not find anim build FROMNUM
+[00:29:09]: Could not find anim build FROMNUM
+[00:29:14]: Could not find anim build FROMNUM
+[00:29:26]: Could not find anim build FROMNUM
+[00:29:28]: Could not find anim build FROMNUM
+[00:29:32]: Could not find anim build FROMNUM
+[00:29:34]: Could not find anim build FROMNUM
+[00:29:36]: Could not find anim build FROMNUM
+[00:29:37]: Could not find anim build FROMNUM
+[00:30:14]: [200] Account Communication Success (6)
+[00:30:14]: Received (KU_pvwb-Vrx) from TokenPurpose
+[00:30:20]: Could not find anim build FROMNUM
+[00:30:52]: Could not find anim build FROMNUM
+[00:31:06]: Could not find anim [death] in bank [ghost]
+[00:31:06]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000047
+[00:31:30]: Could not find anim build FROMNUM
+[00:31:42]: Could not find anim [idle_loop] in bank [ghost]
+[00:31:45]: Could not find anim [transform] in bank [wilson]
+[00:31:46]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000047
+[00:32:05]: Could not find anim build FROMNUM
+[00:32:07]: Could not find anim build FROMNUM
+[00:32:35]: Could not find anim build FROMNUM
+[00:32:36]: Could not find anim build FROMNUM
+[00:32:37]: Could not find anim build FROMNUM
+[00:32:39]: Could not find anim build FROMNUM
+[00:32:50]: Could not find anim build FROMNUM
+[00:33:13]: [P2P] Session timed out for '76561198962565865'
+[00:33:13]: [P2P] Remove session: 19.87.80.91|1 '76561198962565865'
+[00:33:33]: Could not find anim build FROMNUM
+[00:33:39]: Could not find anim build FROMNUM
+[00:34:05]: Could not find anim build FROMNUM
+[00:34:12]: Could not find anim build FROMNUM
+[00:34:20]: Could not find anim build FROMNUM
+[00:34:26]: Could not find anim build FROMNUM
+[00:34:44]: Could not find anim [gift] in bank [researchlab2_pod_fx]
+[00:34:55]: Could not find anim build FROMNUM
+[00:34:58]: Could not find anim build FROMNUM
+[00:35:02]: Could not find anim build FROMNUM
+[00:35:07]: Could not find anim build FROMNUM
+[00:35:45]: Could not find anim build FROMNUM
+[00:35:45]: Could not find anim build FROMNUM
+[00:35:50]: Could not find anim [gift] in bank [researchlab2_pod_fx]
+[00:35:57]: Could not find anim build FROMNUM
+[00:36:04]: Could not find anim build FROMNUM
+[00:36:24]: Available disk space for save files: 9775 MB
+[00:36:24]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000047
+[00:36:24]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000047
+[00:36:24]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000047
+[00:36:24]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000047
+[00:36:24]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000047
+[00:36:24]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000047
+[00:36:24]: Serializing world: session/58DD4C21B0D12AE0/0000000047
+[00:38:13]: Could not find anim build FROMNUM
+[00:38:15]: Could not find anim build FROMNUM
+[00:38:20]: Could not find anim build FROMNUM
+[00:38:34]: Activating portal[4] to 3771146703	
+[00:38:35]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000048
+[00:38:35]: [Shard] Migration request: (KU_vCuBSuGz) to caves(3771146703)
+[00:38:35]: [Shard] Begin migration #1 for (KU_vCuBSuGz)
+[00:38:35]: [Shard] #1 [SHDMASTER](1) -> caves(3771146703)
+[00:38:35]: [Shard] #1 <- session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000048
+[00:38:35]: [Shard] Writing save location file for (KU_vCuBSuGz)
+[00:38:35]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:38:35]: [Steam] SendUserDisconnect for '76561198399061110'
+[00:38:35]: [Shard] (KU_vCuBSuGz) disconnected from [SHDMASTER](1)
+[00:38:42]: [Shard] Completed migration #1 for player (KU_vCuBSuGz)
+[00:39:00]: [Shard] (KU_vCuBSuGz) disconnected from caves(3771146703)
+[00:39:09]: Could not find anim build FROMNUM
+[00:39:21]: New incoming connection 122.10.156.62|28029 <5899254738595683225>
+[00:39:21]: Client connected from 122.10.156.62|28029 <5899254738595683225>
+[00:39:21]: ValidateGameSessionToken GUID<5899254738595683225>
+[00:39:22]: Client authenticated: (KU_vCuBSuGz) bakamitai
+[00:39:22]: [Steam] SendUserConnectAndAuthenticate for '76561198399061110'
+[00:39:22]: [Steam] Authenticated client '76561198399061110'
+[00:39:23]: There is no active event to validate against.
+[00:39:23]: [Shard] Read save location file for (KU_vCuBSuGz)
+[00:39:23]: [Shard] Forwarding player to caves(3771146703)
+[00:39:23]: [Shard] Begin migration #2 for (KU_vCuBSuGz)
+[00:39:23]: [Shard] #2 [SHDMASTER](1) -> caves(3771146703)
+[00:39:23]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:39:23]: [Steam] SendUserDisconnect for '76561198399061110'
+[00:39:23]: [Shard] (KU_vCuBSuGz) disconnected from [SHDMASTER](1)
+[00:39:24]: Could not find anim build FROMNUM
+[00:39:27]: Could not find anim build FROMNUM
+[00:39:29]: Could not find anim build FROMNUM
+[00:39:31]: Could not find anim build FROMNUM
+[00:39:31]: [Shard] Completed migration #2 for player (KU_vCuBSuGz)
+[00:39:47]: Could not find anim build FROMNUM
+[00:39:48]: Could not find anim build FROMNUM
+[00:39:49]: Could not find anim build FROMNUM
+[00:39:52]: Could not find anim build FROMNUM
+[00:40:02]: [Shard] (KU_vCuBSuGz) disconnected from caves(3771146703)
+[00:40:22]: Could not find anim build FROMNUM
+[00:40:25]: New incoming connection 122.10.156.62|27187 <2877619668053094907>
+[00:40:25]: Client connected from 122.10.156.62|27187 <2877619668053094907>
+[00:40:25]: ValidateGameSessionToken GUID<2877619668053094907>
+[00:40:26]: Client authenticated: (KU_vCuBSuGz) bakamitai
+[00:40:26]: [Steam] SendUserConnectAndAuthenticate for '76561198399061110'
+[00:40:26]: [Steam] Authenticated client '76561198399061110'
+[00:40:27]: There is no active event to validate against.
+[00:40:27]: [Shard] Read save location file for (KU_vCuBSuGz)
+[00:40:27]: [Shard] Forwarding player to caves(3771146703)
+[00:40:27]: [Shard] Begin migration #3 for (KU_vCuBSuGz)
+[00:40:27]: [Shard] #3 [SHDMASTER](1) -> caves(3771146703)
+[00:40:27]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:40:27]: [Steam] SendUserDisconnect for '76561198399061110'
+[00:40:27]: [Shard] (KU_vCuBSuGz) disconnected from [SHDMASTER](1)
+[00:40:35]: [Shard] Completed migration #3 for player (KU_vCuBSuGz)
+[00:40:40]: Could not find anim build FROMNUM
+[00:40:50]: Could not find anim build FROMNUM
+[00:41:09]: Could not find anim build FROMNUM
+[00:41:15]: Could not find anim build FROMNUM
+[00:41:24]: Could not find anim build FROMNUM
+[00:41:39]: Could not find anim build FROMNUM
+[00:41:40]: Could not find anim build FROMNUM
+[00:41:55]: Could not find anim build FROMNUM
+[00:42:05]: Could not find anim [gift] in bank [researchlab2_pod_fx]
+[00:42:20]: [Shard] (KU_vCuBSuGz) disconnected from caves(3771146703)
+[00:42:45]: New incoming connection 130.62.87.95|54161 <8025988788772745837>
+[00:42:45]: Client connected from 130.62.87.95|54161 <8025988788772745837>
+[00:42:45]: ValidateGameSessionToken GUID<8025988788772745837>
+[00:42:46]: Client authenticated: (KU_vCuBSuGz) bakamitai
+[00:42:47]: [Steam] SendUserConnectAndAuthenticate for '76561198399061110'
+[00:42:48]: [Steam] Authenticated client '76561198399061110'
+[00:42:51]: There is no active event to validate against.
+[00:42:51]: [Shard] Read save location file for (KU_vCuBSuGz)
+[00:42:51]: [Shard] Forwarding player to caves(3771146703)
+[00:42:51]: [Shard] Begin migration #4 for (KU_vCuBSuGz)
+[00:42:51]: [Shard] #4 [SHDMASTER](1) -> caves(3771146703)
+[00:42:51]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:42:54]: Could not find anim build FROMNUM
+[00:42:59]: [Shard] Completed migration #4 for player (KU_vCuBSuGz)
+[00:43:02]: [Steam] SendUserDisconnect for '76561198399061110'
+[00:43:02]: [Shard] (KU_vCuBSuGz) disconnected from [SHDMASTER](1)
+[00:43:42]: Server Paused	
+[00:44:08]: KU_UnXy3ttp	running text command:	rollback	true	
+[00:44:14]: Server Unpaused	
+[00:44:19]: Received world rollback request: count=1	
+[00:44:19]: Truncating to snapshot #47...
+[00:44:19]:  - session/58DD4C21B0D12AE0/0000000039
+[00:44:19]:  - session/58DD4C21B0D12AE0/0000000040
+[00:44:19]:  - session/58DD4C21B0D12AE0/0000000041
+[00:44:19]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000039
+[00:44:19]:  - session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000048
+[00:44:19]:    5 file(s) removed
+[00:44:19]:  > session/58DD4C21B0D12AE0/A7N4PO5N711T/savelocation
+[00:44:19]:    1 file(s) updated
+[00:44:19]: Collecting garbage...
+[00:44:20]: lua_gc took 0.73 seconds
+[00:44:20]: ~ShardLuaProxy()
+[00:44:20]: ~cEventLeaderboardProxy()
+[00:44:20]: ~ItemServerLuaProxy()
+[00:44:20]: ~InventoryLuaProxy()
+[00:44:20]: ~NetworkLuaProxy()
+[00:44:20]: ~SimLuaProxy()
+[00:44:21]: lua_close took 0.95 seconds
+[00:44:21]: ReleaseAll
+[00:44:21]: ReleaseAll Finished
+[00:44:21]: cGame::StartPlaying
+[00:44:21]: AppVersion::GetArchitecture() x32
+[00:44:21]: LOADING LUA
+[00:44:21]: DoLuaFile scripts/main.lua
+[00:44:21]: DoLuaFile loading buffer scripts/main.lua
+[00:44:21]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:44:24]:   taskgrouplist:	default	联机版	
+[00:44:24]:   taskgrouplist:	classic	经典	
+[00:44:24]:   taskgrouplist:	cave_default	地下	
+[00:44:24]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:44:24]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:44:24]: Running main.lua
+	
+[00:44:24]: loaded modindex	
+[00:44:24]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:44:24]: SUCCESS: Loaded modoverrides.lua	
+[00:44:24]: modoverrides.lua enabling workshop-1301033176	
+[00:44:24]: modoverrides.lua enabling workshop-347079953	
+[00:44:24]: modoverrides.lua enabling workshop-375850593	
+[00:44:24]: modoverrides.lua enabling workshop-1595631294	
+[00:44:24]: modoverrides.lua enabling workshop-365119238	
+[00:44:24]: modoverrides.lua enabling workshop-666155465	
+[00:44:24]: modoverrides.lua enabling workshop-378160973	
+[00:44:24]: modoverrides.lua enabling workshop-362175979	
+[00:44:24]: modoverrides.lua enabling workshop-462434129	
+[00:44:24]: modoverrides.lua enabling workshop-375859599	
+[00:44:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1301033176	
+[00:44:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:44:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:44:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:44:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:44:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:44:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462434129	
+[00:44:24]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:44:24]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:44:24]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:44:24]: Could not load mod_config_data/modconfiguration_workshop-1301033176	
+[00:44:24]: Loading mod: workshop-1301033176 (中文语言包（服务器版）) Version:3.7.3	
+[00:44:24]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:44:24]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:44:24]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:44:24]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:44:24]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:44:24]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:44:24]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:44:24]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:44:24]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:44:24]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:44:24]: Could not load mod_config_data/modconfiguration_workshop-462434129	
+[00:44:24]: Loading mod: workshop-462434129 (Restart) Version:0.3.2	
+[00:44:24]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:44:24]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:44:24]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:44:24]: Loading mod: workshop-375859599 (Health Info) Version:2.2.03	
+[00:44:24]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:44:24]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:44:24]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:44:24]: Overriding mod workshop-347079953's option DFV_Language with value CN	
+[00:44:24]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:44:24]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:44:24]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:44:24]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:44:24]: Overriding mod workshop-666155465's option display_hp with value -1	
+[00:44:24]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:44:24]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:44:24]: Overriding mod workshop-666155465's option lang with value chs	
+[00:44:24]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:44:24]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:44:24]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:44:24]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:44:24]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:44:24]: Overriding mod workshop-378160973's option FIREOPTIONS with value 1	
+[00:44:24]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:44:24]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:44:24]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:44:24]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:44:24]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 3	
+[00:44:24]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:44:24]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:44:24]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:24]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:44:24]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:44:24]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:44:24]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:44:24]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:44:24]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:44:24]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:44:24]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:24]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:44:24]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:44:24]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:24]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:44:24]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:44:24]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:24]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:44:24]: ShowMe version:	0.58	
+[00:44:24]: show_food_units	-1	-1	-1	
+[00:44:24]: show_uses	-1	-1	-1	
+[00:44:24]: Detected language for ShowMe: 	chs		
+[00:44:24]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:44:24]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:24]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:44:24]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:44:24]: Mod: workshop-1301033176 (中文语言包（服务器版）)	Loading modworldgenmain.lua	
+[00:44:24]: Mod: workshop-1301033176 (中文语言包（服务器版）)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:24]: Mod: workshop-1301033176 (中文语言包（服务器版）)	Loading modmain.lua	
+[00:44:24]: Translator:LoadPOFile - loading file: ../mods/workshop-1301033176/DST_chs.po	
+[00:44:26]: [Chinses] 所选语言不存在或无法加载，默认加载简体翻译成功！	
+[00:44:26]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:44:26]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:26]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:44:26]: Mod: workshop-462434129 (Restart)	Loading modworldgenmain.lua	
+[00:44:26]: Mod: workshop-462434129 (Restart)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:26]: Mod: workshop-462434129 (Restart)	Loading modmain.lua	
+[00:44:26]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:44:26]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:26]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:44:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1301033176	
+[00:44:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:44:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:44:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:44:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:44:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:44:26]: ModIndex:GetModsToLoad inserting moddir, 	workshop-462434129	
+[00:44:26]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:44:26]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:44:26]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:44:26]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:44:26]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:26]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:44:26]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:44:26]: LOADING LUA SUCCESS
+[00:44:26]: Registering Server mod namespace "workshop-378160973"
+[00:44:26]: Registering Server mod namespace "food item"
+[00:44:26]: Registering Server mod namespace "showmeshint"
+[00:44:26]: Registering Server mod namespace "showme"
+[00:44:26]: PlayerDeaths could not load morgue	
+[00:44:26]: PlayerHistory could not load player_history	
+[00:44:26]: ServerPreferences could not load server_preferences	
+[00:44:26]: ConsoleScreenSettings could not load consolescreen	
+[00:44:26]: bloom_enabled	true	
+[00:44:26]: OnFilesLoaded()	
+[00:44:26]: OnUpdatePurchaseStateComplete	
+[00:44:26]: Loading world: session/58DD4C21B0D12AE0/0000000047	
+[00:44:26]: Save file is at version 5.12	
+[00:44:26]: Klump load on boot started.	
+[00:44:26]: Klump files loaded: 	0	
+[00:44:27]: 	Unload characters	
+[00:44:27]: 	BE assets already loaded	
+[00:44:27]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:44:27]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:44:27]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:44:27]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:44:27]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:44:27]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:44:27]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:44:27]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:44:27]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:44:27]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:44:27]: Mod: workshop-1301033176 (中文语言包（服务器版）)	Registering prefabs	
+[00:44:27]: Mod: workshop-1301033176 (中文语言包（服务器版）)	  Registering default mod prefab	
+[00:44:27]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:44:27]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:44:27]: Mod: workshop-462434129 (Restart)	Registering prefabs	
+[00:44:27]: Mod: workshop-462434129 (Restart)	  Registering default mod prefab	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:44:27]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:44:27]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:44:27]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:44:28]: Begin Session: 58DD4C21B0D12AE0
+[00:44:28]: Stomping previously assigned session identifier, two loads issued.
+[00:44:28]: saving to server_temp/server_save	
+[00:44:28]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:44:28]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:44:28]: modimport: ../mods/workshop-666155465/showme_chs.lua	
+[00:44:28]: <Restart> Get your language from language mod!	
+[00:44:28]: modimport: ../mods/workshop-462434129/restart_chs.lua	
+[00:44:28]: Loading 19 new character(s)	
+[00:44:29]: Total 19 character(s) loaded	
+[00:44:30]: Loading Nav Grid	
+[00:44:30]: World generated on build 522362 with save version: 5.12, using seed: 1662778836	
+[00:44:30]: setting 	summerlength	15	
+[00:44:30]: setting 	cavemoonphase	threequarter	
+[00:44:30]: setting 	iscavefullmoon	false	
+[00:44:30]: setting 	isnightmaredawn	false	
+[00:44:30]: setting 	elapseddaysinseason	9	
+[00:44:30]: setting 	isfullmoon	false	
+[00:44:30]: setting 	moisture	1339.5122070313	
+[00:44:30]: setting 	cavephase	day	
+[00:44:30]: setting 	iscavewaxingmoon	false	
+[00:44:30]: setting 	isnightmarewild	false	
+[00:44:30]: setting 	nightmaretimeinphase	0	
+[00:44:30]: setting 	precipitationrate	0	
+[00:44:30]: setting 	iswet	false	
+[00:44:30]: setting 	isnewmoon	false	
+[00:44:30]: setting 	precipitation	none	
+[00:44:30]: setting 	israining	false	
+[00:44:30]: setting 	isnightmarewarn	false	
+[00:44:30]: setting 	iswinter	true	
+[00:44:30]: setting 	season	winter	
+[00:44:30]: setting 	remainingdaysinseason	6	
+[00:44:30]: setting 	winterlength	15	
+[00:44:30]: setting 	iscaveday	true	
+[00:44:30]: setting 	moistureceil	1694.6522216797	
+[00:44:30]: setting 	isday	true	
+[00:44:30]: setting 	springlength	20	
+[00:44:30]: setting 	wetness	0	
+[00:44:30]: setting 	iscavedusk	false	
+[00:44:30]: setting 	isalterawake	false	
+[00:44:30]: setting 	isnightmarecalm	false	
+[00:44:30]: setting 	isnight	false	
+[00:44:30]: setting 	isdusk	false	
+[00:44:30]: setting 	isspring	false	
+[00:44:30]: setting 	isautumn	false	
+[00:44:30]: setting 	issnowing	false	
+[00:44:30]: setting 	iswaxingmoon	false	
+[00:44:30]: setting 	phase	day	
+[00:44:30]: setting 	snowlevel	1	
+[00:44:30]: setting 	issnowcovered	true	
+[00:44:30]: setting 	autumnlength	20	
+[00:44:30]: setting 	pop	0.57846546614206	
+[00:44:30]: setting 	nightmaretime	0	
+[00:44:30]: setting 	seasonprogress	0.6	
+[00:44:30]: setting 	moonphase	threequarter	
+[00:44:30]: setting 	nightmarephase	none	
+[00:44:30]: setting 	cycles	29	
+[00:44:30]: setting 	timeinphase	0.0065338134765625	
+[00:44:30]: setting 	iscavenight	false	
+[00:44:30]: setting 	iscavenewmoon	false	
+[00:44:30]: setting 	issummer	false	
+[00:44:30]: setting 	temperature	-23.856393976212	
+[00:44:30]: setting 	time	0.0020418167114258	
+[00:44:31]: ----------------- HEALTH INFO WARNING ------------------	
+[00:44:31]: Some objects are not supported by the mod.	
+[00:44:31]: Unknown objects: boat_pirate	
+[00:44:31]: You can enable these objects if you change the option "Unknown Objects".	
+[00:44:31]: See more info at http://steamcommunity.com/workshop/filedetails/discussion/375859599/343787283764426976/	
+[00:44:31]: --------------------------------------------------------	
+[00:44:32]: ----------------- HEALTH INFO WARNING ------------------	
+[00:44:32]: Unknown objects: lightcrab	
+[00:44:37]: Reconstructing topology	
+[00:44:37]: 	...Sorting points	
+[00:44:37]: 	...Sorting edges	
+[00:44:37]: 	...Connecting nodes	
+[00:44:37]: 	...Validating connections	
+[00:44:37]: 	...Housekeeping	
+[00:44:37]: 	...Done!	
+[00:44:37]: Restoring user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000047	
+[00:44:37]: Restoring user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000047	
+[00:44:37]: Restoring user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000047	
+[00:44:38]: Restoring user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000047	
+[00:44:38]: Restoring user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000047	
+[00:44:38]: Restoring user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000047	
+[00:44:38]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000048
+[00:44:38]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000048
+[00:44:38]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000048
+[00:44:38]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000048
+[00:44:38]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000048
+[00:44:38]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000048
+[00:44:38]: 1 uploads added to server. From server_temp
+[00:44:38]: World 3771146703 is now connected	
+[00:44:38]: Telling Client our new session identifier: 58DD4C21B0D12AE0
+[00:44:38]: Check for write access: TRUE
+[00:44:38]: Check for read access: TRUE
+[00:44:38]: Available disk space for save files: 9802 MB
+[00:44:38]: ModIndex: Load sequence finished successfully.	
+[00:44:38]: Reset() returning
+[00:44:38]: Invalid RPC sender: expected player, got userid	
+[00:44:38]: Invalid RPC sender: expected player, got userid	
+[00:44:38]: Invalid RPC sender: expected player, got userid	
+[00:44:38]: Invalid RPC sender: expected player, got userid	
+[00:44:38]: Invalid RPC sender: expected player, got userid	
+[00:44:38]: Received resync request from client with no player
+[00:44:38]: Received resync request from client with no player
+[00:44:38]: [Shard] Secondary shard 'caves(3771146703)' restarting...
+[00:44:38]: World 3771146703 is now disconnected	
+[00:44:39]: Validating portal[5] <-> 3771146703[5] (inactive)	
+[00:44:39]: Validating portal[6] <-> 3771146703[6] (inactive)	
+[00:44:39]: Validating portal[7] <-> 3771146703[7] (inactive)	
+[00:44:39]: Validating portal[4] <-> 3771146703[4] (inactive)	
+[00:44:39]: Validating portal[2] <-> 3771146703[2] (inactive)	
+[00:44:39]: Validating portal[1] <-> 3771146703[1] (inactive)	
+[00:44:39]: Validating portal[8] <-> 3771146703[8] (inactive)	
+[00:44:39]: Validating portal[10] <-> 3771146703[10] (inactive)	
+[00:44:39]: Validating portal[9] <-> 3771146703[9] (inactive)	
+[00:44:39]: Validating portal[3] <-> 3771146703[3] (inactive)	
+[00:44:39]: Could not find anim build FROMNUM
+[00:44:39]: Could not find anim build FROMNUM
+[00:44:39]: Could not find anim build FROMNUM
+[00:44:39]: Could not find anim build FROMNUM
+[00:44:39]: Could not find anim build FROMNUM
+[00:44:49]: Restarting player migration on master server
+[00:44:49]: [Shard] Read save location file for (KU_pvwb-Vrx)
+[00:44:49]: Resuming user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000048
+[00:44:49]: Spawning player at: [Load] (4.31, -0.00, 1.97)	
+[00:44:51]: Restarting player migration on master server
+[00:44:51]: [Shard] Read save location file for (KU_GoPRYhnc)
+[00:44:51]: Resuming user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000048
+[00:44:51]: Spawning player at: [Load] (11.07, 0.00, -1.53)	
+[00:44:53]: [Shard] Secondary caves(3771146703) ready!
+[00:44:53]: World 3771146703 is now connected	
+[00:44:53]: Validating portal[5] <-> 3771146703[5] (active)	
+[00:44:53]: Validating portal[6] <-> 3771146703[6] (disabled)	
+[00:44:53]: Validating portal[7] <-> 3771146703[7] (active)	
+[00:44:53]: Validating portal[4] <-> 3771146703[4] (active)	
+[00:44:53]: Validating portal[2] <-> 3771146703[2] (active)	
+[00:44:53]: Validating portal[1] <-> 3771146703[1] (disabled)	
+[00:44:53]: Validating portal[8] <-> 3771146703[8] (disabled)	
+[00:44:53]: Validating portal[10] <-> 3771146703[10] (disabled)	
+[00:44:53]: Validating portal[9] <-> 3771146703[9] (disabled)	
+[00:44:53]: Validating portal[3] <-> 3771146703[3] (active)	
+[00:44:57]: Restarting player migration on master server
+[00:44:57]: [Shard] Read save location file for (KU_GoPRYhoT)
+[00:44:57]: Resuming user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000048
+[00:44:57]: Spawning player at: [Load] (1.89, -0.00, -10.12)	
+[00:45:03]: Restarting player migration on master server
+[00:45:03]: [Shard] Read save location file for (KU_H6259xgX)
+[00:45:03]: Resuming user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000048
+[00:45:03]: Spawning player at: [Load] (2.20, -0.00, -0.57)	
+[00:45:10]: Restarting player migration on master server
+[00:45:10]: [Shard] Read save location file for (KU_UnXy3ttp)
+[00:45:10]: Resuming user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000048
+[00:45:10]: Spawning player at: [Load] (7.61, -0.00, -1.54)	
+[00:45:12]: Could not find anim build FROMNUM
+[00:45:33]: Could not find anim build FROMNUM
+[00:45:40]: Could not find anim build FROMNUM
+[00:45:40]: Could not find anim build FROMNUM
+[00:45:41]: Could not find anim build FROMNUM
+[00:45:43]: Could not find anim build FROMNUM
+[00:45:44]: Could not find anim build FROMNUM
+[00:45:46]: Could not find anim build FROMNUM
+[00:45:47]: Could not find anim build FROMNUM
+[00:45:48]: Could not find anim build FROMNUM
+[00:45:51]: Could not find anim build FROMNUM
+[00:45:51]: Could not find anim build FROMNUM
+[00:45:55]: Could not find anim build FROMNUM
+[00:45:57]: Could not find anim build FROMNUM
+[00:46:21]: Could not find anim build FROMNUM
+[00:46:23]: Could not find anim build FROMNUM
+[00:46:26]: Could not find anim build FROMNUM
+[00:46:42]: [Shard] (KU_vCuBSuGz) disconnected from caves(3771146703)
+[00:46:50]: Could not find anim build FROMNUM
+[00:46:54]: Could not find anim build FROMNUM
+[00:46:58]: Could not find anim build FROMNUM
+[00:47:05]: Could not find anim build FROMNUM
+[00:47:06]: Could not find anim build FROMNUM
+[00:47:42]: New incoming connection 122.10.157.121|40879 <1537206458932446484>
+[00:47:42]: Client connected from 122.10.157.121|40879 <1537206458932446484>
+[00:47:42]: ValidateGameSessionToken GUID<1537206458932446484>
+[00:47:42]: Client authenticated: (KU_vCuBSuGz) bakamitai
+[00:47:43]: [Steam] SendUserConnectAndAuthenticate for '76561198399061110'
+[00:47:43]: [Steam] Authenticated client '76561198399061110'
+[00:47:44]: There is no active event to validate against.
+[00:47:44]: [Shard] Read save location file for (KU_vCuBSuGz)
+[00:47:54]: Could not find anim build FROMNUM
+[00:48:03]: Resuming user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000048
+[00:48:03]: Spawning player at: [Load] (7.44, 0.00, 1.50)	
+[00:49:00]: Could not find anim build FROMNUM
+[00:49:04]: Could not find anim build FROMNUM
+[00:49:09]: Could not find anim build FROMNUM
+[00:49:12]: Could not find anim build FROMNUM
+[00:49:23]: Could not find anim build FROMNUM
+[00:49:42]: Could not find anim build FROMNUM
+[00:49:45]: Could not find anim build FROMNUM
+[00:49:54]: Could not find anim build FROMNUM
+[00:50:32]: Could not find anim build FROMNUM
+[00:50:34]: Could not find anim build FROMNUM
+[00:50:37]: Could not find anim build FROMNUM
+[00:50:40]: Could not find anim build FROMNUM
+[00:51:57]: New incoming connection 123.133.69.164|12152 <1181419313807510853>
+[00:51:57]: Client connected from 123.133.69.164|12152 <1181419313807510853>
+[00:51:57]: ValidateGameSessionToken GUID<1181419313807510853>
+[00:51:58]: Client authenticated: (KU_nnMF5MD7) Kirito
+[00:51:58]: [Steam] SendUserConnectAndAuthenticate for '76561198434785054'
+[00:51:58]: [Steam] Authenticated client '76561198434785054'
+[00:52:00]: There is no active event to validate against.
+[00:52:00]: [Shard] Read save location file for (KU_nnMF5MD7)
+[00:52:39]: Available disk space for save files: 9801 MB
+[00:52:39]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000048
+[00:52:39]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000048
+[00:52:39]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000048
+[00:52:39]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000048
+[00:52:39]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000048
+[00:52:39]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000048
+[00:52:40]: Serializing world: session/58DD4C21B0D12AE0/0000000048
+[00:52:53]: Could not find anim build FROMNUM
+[00:52:56]: Could not find anim build FROMNUM
+[00:52:59]: Could not find anim build FROMNUM
+[00:53:17]: Could not find anim build FROMNUM
+[00:53:25]: Could not find anim build FROMNUM
+[00:53:27]: Could not find anim build FROMNUM
+[00:53:31]: Could not find anim build FROMNUM
+[00:53:32]: Could not find anim build FROMNUM
+[00:53:34]: Could not find anim build FROMNUM
+[00:53:37]: Resuming user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000037
+[00:53:37]: Spawning player at: [Load] (6.80, 0.00, -4.85)	
+[00:55:21]: Could not find anim build FROMNUM
+[00:55:31]: Could not find anim build FROMNUM
+[00:55:35]: Could not find anim build FROMNUM
+[00:55:37]: Could not find anim build FROMNUM
+[00:55:39]: Could not find anim build FROMNUM
+[00:56:47]: Could not find anim build FROMNUM
+[00:56:56]: Could not find anim build FROMNUM
+[00:56:58]: Could not find anim build FROMNUM
+[00:57:00]: Could not find anim build FROMNUM
+[00:57:02]: Could not find anim build FROMNUM
+[00:57:40]: Could not find anim [transform_weregoose_pre] in bank [FROMNUM]
+[00:58:45]: Could not find anim [death] in bank [ghost]
+[00:58:45]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000049
+[00:59:29]: Could not find anim build FROMNUM
+[00:59:37]: Could not find anim build FROMNUM
+[00:59:40]: Could not find anim build FROMNUM
+[00:59:42]: Could not find anim build FROMNUM
+[00:59:46]: Could not find anim build FROMNUM
+[01:00:08]: Could not find anim [idle_loop] in bank [ghost]
+[01:00:11]: Could not find anim [transform] in bank [FROMNUM]
+[01:00:12]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000049
+[01:00:14]: [200] Account Communication Success (6)
+[01:00:14]: Received (KU_pvwb-Vrx) from TokenPurpose
+[01:00:40]: Available disk space for save files: 9797 MB
+[01:00:40]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000049
+[01:00:40]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000049
+[01:00:40]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000049
+[01:00:40]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000049
+[01:00:40]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000049
+[01:00:40]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000049
+[01:00:40]: Serializing user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000049
+[01:00:40]: Serializing world: session/58DD4C21B0D12AE0/0000000049
+[01:00:41]: Could not find anim build FROMNUM
+[01:01:42]: Could not find anim [revert_weregoose_pre] in bank [wilson]
+[01:01:55]: Could not find anim [weremoose_transform] in bank [weremoose]
+[01:02:32]: Could not find anim build FROMNUM
+[01:02:40]: Could not find anim [death] in bank [ghost]
+[01:02:40]: Serializing user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000050
+[01:02:46]: Could not find anim build FROMNUM
+[01:02:47]: Could not find anim [idle_loop] in bank [ghost]
+[01:02:50]: Could not find anim [transform] in bank [wilson]
+[01:02:51]: Serializing user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000050
+[01:02:52]: Could not find anim build FROMNUM
+[01:03:16]: Could not find anim build FROMNUM
+[01:03:17]: Could not find anim build FROMNUM
+[01:03:24]: Could not find anim build FROMNUM
+[01:03:32]: Could not find anim build FROMNUM
+[01:03:39]: Could not find anim build FROMNUM
+[01:03:48]: Could not find anim build FROMNUM
+[01:03:55]: [Steam] SendUserDisconnect for '76561198434785054'
+[01:03:55]: Connection lost to 123.133.69.164|12152 <1181419313807510853>
+[01:03:55]: [Shard] (KU_nnMF5MD7) disconnected from [SHDMASTER](1)
+[01:03:55]: Serializing user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000050
+[01:04:21]: Could not find anim build FROMNUM
+[01:04:34]: Could not find anim build FROMNUM
+[01:04:59]: Could not find anim [transform_weregoose_pre] in bank [weregoose]
+[01:05:10]: Could not find anim build FROMNUM
+[01:05:12]: TELEPORT OUT TERRORBEAK	
+[01:05:13]: EXCHANGE TERROR BEAK	
+[01:06:41]: Could not find anim build FROMNUM
+[01:06:44]: Could not find anim build FROMNUM
+[01:06:49]: Could not find anim build FROMNUM
+[01:06:50]: Could not find anim build FROMNUM
+[01:07:09]: New incoming connection 123.133.69.164|13146 <250592961626619251>
+[01:07:09]: Client connected from 123.133.69.164|13146 <250592961626619251>
+[01:07:09]: ValidateGameSessionToken GUID<250592961626619251>
+[01:07:10]: Client authenticated: (KU_nnMF5MD7) Kirito
+[01:07:10]: [Steam] SendUserConnectAndAuthenticate for '76561198434785054'
+[01:07:10]: [Steam] Authenticated client '76561198434785054'
+[01:07:12]: There is no active event to validate against.
+[01:07:12]: [Shard] Read save location file for (KU_nnMF5MD7)
+[01:07:14]: Could not find anim [death] in bank [ghost]
+[01:07:14]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000050
+[01:07:45]: New incoming connection 116.23.32.5|56268 <8532089329263358324>
+[01:07:45]: Client connected from 116.23.32.5|56268 <8532089329263358324>
+[01:07:45]: ValidateGameSessionToken GUID<8532089329263358324>
+[01:07:45]: Client authenticated: (KU_V9vhY2RQ) 一只小鸭纸
+[01:07:46]: [Steam] SendUserConnectAndAuthenticate for '76561198963683445'
+[01:07:54]: [P2P] Session request for '76561198963683445'
+[01:07:54]: [Steam] Authenticated client '76561198963683445'
+[01:07:56]: There is no active event to validate against.
+[01:07:56]: [Shard] Read save location file for (KU_V9vhY2RQ)
+[01:07:58]: Resuming user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000050
+[01:07:58]: Spawning player at: [Load] (9.77, -0.00, -8.48)	
+[01:07:59]: Could not find anim build FROMNUM
+[01:08:01]: Could not find anim build FROMNUM
+[01:08:05]: Could not find anim build FROMNUM
+[01:08:07]: Could not find anim build FROMNUM
+[01:08:27]: Could not find anim [idle_loop] in bank [ghost]
+[01:08:30]: Could not find anim [transform] in bank [weregoose]
+[01:08:31]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000050
+[01:08:40]: Available disk space for save files: 9793 MB
+[01:08:41]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000050
+[01:08:41]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000050
+[01:08:41]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000050
+[01:08:41]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000050
+[01:08:41]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000050
+[01:08:41]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000050
+[01:08:41]: Serializing user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000050
+[01:08:41]: Serializing world: session/58DD4C21B0D12AE0/0000000050
+[01:08:53]: Could not find anim build FROMNUM
+[01:09:37]: Could not find anim build FROMNUM
+[01:09:38]: Resuming user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000037
+[01:09:38]: Spawning player at: [Load] (8.67, -0.00, 1.75)	
+[01:09:40]: Could not find anim [revert_weregoose_pre] in bank [wilson]
+[01:09:43]: Could not find anim build FROMNUM
+[01:09:44]: Could not find anim build FROMNUM
+[01:09:47]: Could not find anim build FROMNUM
+[01:09:49]: Could not find anim build FROMNUM
+[01:09:52]: Could not find anim build FROMNUM
+[01:10:01]: Could not find anim build FROMNUM
+[01:10:15]: Could not find anim build FROMNUM
+[01:10:17]: Could not find anim build FROMNUM
+[01:10:19]: Could not find anim build FROMNUM
+[01:10:21]: Could not find anim build FROMNUM
+[01:10:21]: Could not find anim build FROMNUM
+[01:10:24]: Could not find anim build FROMNUM
+[01:10:24]: Could not find anim [death] in bank [ghost]
+[01:10:24]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000051
+[01:10:40]: [Steam] SendUserDisconnect for '76561198399061110'
+[01:10:40]: [Shard] (KU_vCuBSuGz) disconnected from [SHDMASTER](1)
+[01:10:41]: Serializing user: session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000051
+[01:10:47]: Could not find anim build FROMNUM
+[01:11:00]: Could not find anim build FROMNUM
+[01:11:04]: Could not find anim build FROMNUM
+[01:11:15]: Could not find anim build FROMNUM
+[01:11:26]: Could not find anim build FROMNUM
+[01:11:30]: Could not find anim build FROMNUM
+[01:11:39]: Could not find anim build FROMNUM
+[01:12:01]: Could not find anim build FROMNUM
+[01:12:38]: Could not find anim build FROMNUM
+[01:12:40]: Could not find anim build FROMNUM
+[01:12:45]: Could not find anim build FROMNUM
+[01:13:07]: Could not find anim build FROMNUM
+[01:13:10]: Could not find anim build FROMNUM
+[01:14:05]: Could not find anim build FROMNUM
+[01:14:19]: Could not find anim build FROMNUM
+[01:14:28]: Could not find anim [death] in bank [ghost]
+[01:14:28]: Serializing user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000051
+[01:15:25]: Could not find anim build FROMNUM
+[01:15:28]: Could not find anim build FROMNUM
+[01:15:32]: Could not find anim [death] in bank [ghost]
+[01:15:32]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000051
+[01:15:35]: Could not find anim build FROMNUM
+[01:15:42]: Could not find anim build FROMNUM
+[01:16:30]: Could not find anim [death] in bank [ghost]
+[01:16:30]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000051
+[01:16:41]: Available disk space for save files: 9792 MB
+[01:16:42]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000051
+[01:16:42]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000051
+[01:16:42]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000051
+[01:16:42]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000051
+[01:16:42]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000051
+[01:16:42]: Serializing user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000051
+[01:16:42]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000051
+[01:16:42]: Serializing world: session/58DD4C21B0D12AE0/0000000051
+[01:17:36]: Could not find anim [idle_loop] in bank [ghost]
+[01:17:39]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000052
+[01:18:03]: Could not find anim build FROMNUM
+[01:18:06]: Could not find anim build FROMNUM
+[01:18:10]: Could not find anim build FROMNUM
+[01:18:10]: Could not find anim build FROMNUM
+[01:18:17]: Could not find anim [idle_loop] in bank [ghost]
+[01:18:20]: Serializing user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000052
+[01:18:21]: Could not find anim build FROMNUM
+[01:18:33]: Could not find anim build FROMNUM
+[01:18:34]: Could not find anim [idle_loop] in bank [ghost]
+[01:18:37]: Could not find anim build FROMNUM
+[01:18:37]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000052
+[01:18:49]: Could not find anim build FROMNUM
+[01:18:56]: Could not find anim build FROMNUM
+[01:18:58]: Could not find anim build FROMNUM
+[01:19:26]: Could not find anim build FROMNUM
+[01:19:42]: Could not find anim build FROMNUM
+[01:19:48]: Could not find anim build FROMNUM
+[01:19:50]: Could not find anim build FROMNUM
+[01:19:51]: Could not find anim build FROMNUM
+[01:19:56]: Could not find anim build FROMNUM
+[01:19:56]: Could not find anim build FROMNUM
+[01:20:13]: Could not find anim build FROMNUM
+[01:20:15]: Could not find anim build FROMNUM
+[01:20:18]: Could not find anim build FROMNUM
+[01:20:22]: Could not find anim build FROMNUM
+[01:20:48]: Could not find anim build FROMNUM
+[01:20:53]: Could not find anim build FROMNUM
+[01:21:05]: Could not find anim build FROMNUM
+[01:21:08]: Could not find anim build FROMNUM
+[01:21:09]: Could not find anim build FROMNUM
+[01:21:10]: Could not find anim build FROMNUM
+[01:21:32]: Could not find anim build FROMNUM
+[01:21:41]: Could not find anim build FROMNUM
+[01:21:43]: Could not find anim build FROMNUM
+[01:22:20]: Could not find anim build FROMNUM
+[01:22:22]: Could not find anim build FROMNUM
+[01:22:24]: Could not find anim build FROMNUM
+[01:22:25]: Could not find anim build FROMNUM
+[01:22:27]: Could not find anim build FROMNUM
+[01:22:30]: Could not find anim build FROMNUM
+[01:22:42]: Could not find anim build FROMNUM
+[01:22:48]: Could not find anim build FROMNUM
+[01:22:51]: Could not find anim build FROMNUM
+[01:22:54]: Could not find anim build FROMNUM
+[01:23:04]: [Steam] SendUserDisconnect for '76561198962565865'
+[01:23:04]: [Shard] (KU_H6259xgX) disconnected from [SHDMASTER](1)
+[01:23:05]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000052
+[01:23:37]: Activating portal[7] to 3771146703	
+[01:23:37]: Could not find anim build FROMNUM
+[01:23:37]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000052
+[01:23:37]: [Shard] Migration request: (KU_pvwb-Vrx) to caves(3771146703)
+[01:23:37]: [Shard] Begin migration #5 for (KU_pvwb-Vrx)
+[01:23:37]: [Shard] #5 [SHDMASTER](1) -> caves(3771146703)
+[01:23:37]: [Shard] #5 <- session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000052
+[01:23:37]: [Shard] Writing save location file for (KU_pvwb-Vrx)
+[01:23:37]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:23:37]: [Steam] SendUserDisconnect for '76561198110731779'
+[01:23:37]: [Shard] (KU_pvwb-Vrx) disconnected from [SHDMASTER](1)
+[01:23:46]: [Shard] Completed migration #5 for player (KU_pvwb-Vrx)
+[01:24:15]: Could not find anim [death] in bank [ghost]
+[01:24:15]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000052
+[01:24:20]: Could not find anim build FROMNUM
+[01:24:42]: Available disk space for save files: 9787 MB
+[01:24:42]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000052
+[01:24:42]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000052
+[01:24:42]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000052
+[01:24:42]: Serializing user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000052
+[01:24:42]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000052
+[01:24:43]: Serializing world: session/58DD4C21B0D12AE0/0000000052
+[01:24:54]: [Steam] SendUserDisconnect for '76561198434785054'
+[01:24:54]: [Shard] (KU_nnMF5MD7) disconnected from [SHDMASTER](1)
+[01:24:55]: Serializing user: session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000053
+[01:25:01]: Could not find anim [idle_loop] in bank [ghost]
+[01:25:04]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000053
+[01:28:25]: [Steam] Authenticated client '76561198963683445'
+[01:28:25]: [Warning] cSteamPunchthrough::onAuthenticationApproved - Client already authenticated
+[01:28:25]: [Steam] Authenticated client '76561198828631579'
+[01:28:25]: [Warning] cSteamPunchthrough::onAuthenticationApproved - Client already authenticated
+[01:28:25]: [Steam] Authenticated client '76561199026636478'
+[01:28:25]: [Warning] cSteamPunchthrough::onAuthenticationApproved - Client already authenticated
+[01:28:25]: [Steam] Authenticated client '76561199012036761'
+[01:28:25]: [Warning] cSteamPunchthrough::onAuthenticationApproved - Client already authenticated
+[01:28:46]: Could not find anim build FROMNUM
+[01:29:01]: [Shard] Begin migration #6 for (KU_pvwb-Vrx)
+[01:29:01]: [Shard] #6 caves(3771146703) -> [SHDMASTER](1)
+[01:29:01]: [Shard] #6 -> session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000053
+[01:29:01]: [Shard] Received migration #6 data for (KU_pvwb-Vrx)
+[01:29:01]: [Shard] Writing save location file for (KU_pvwb-Vrx)
+[01:29:01]: [Shard] (KU_pvwb-Vrx) disconnected from caves(3771146703)
+[01:29:02]: Could not find anim build FROMNUM
+[01:29:05]: Could not find anim build FROMNUM
+[01:29:06]: New incoming connection 129.227.113.133|25007 <1044362388632295238>
+[01:29:06]: Client connected from 129.227.113.133|25007 <1044362388632295238>
+[01:29:06]: ValidateGameSessionToken GUID<1044362388632295238>
+[01:29:06]: Client authenticated: (KU_pvwb-Vrx) Silite
+[01:29:06]: [Steam] Authenticated host '76561198110731779'
+[01:29:06]: [Shard] Completed incoming migration #6 for (KU_pvwb-Vrx)
+[01:29:06]: [Shard] Completed migration #6 for player (KU_pvwb-Vrx)
+[01:29:07]: Could not find anim build FROMNUM
+[01:29:09]: Could not find anim build FROMNUM
+[01:29:13]: Could not find anim build FROMNUM
+[01:29:14]: Resuming user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000053
+[01:29:14]: Player will spawn close to portal #2	
+[01:29:14]: Spawning player at: [Load] (-313.07, 0.00, 173.07)	
+[01:30:14]: [200] Account Communication Success (6)
+[01:30:14]: Received (KU_pvwb-Vrx) from TokenPurpose
+[01:31:04]: [P2P] Create session: 19.87.80.92|1 '76561198962565865'
+[01:31:04]: [P2P] Received from 19.87.80.92|1 '76561198962565865'
+[01:31:04]: [P2P] Sent to 19.87.80.92|1 '76561198962565865'
+[01:31:05]: New incoming connection 19.87.80.92|1 <9129186432786600675>
+[01:31:05]: Client connected from 19.87.80.92|1 <9129186432786600675>
+[01:31:05]: ValidateGameSessionToken GUID<9129186432786600675>
+[01:31:05]: Client authenticated: (KU_H6259xgX) 拉比
+[01:31:06]: [Steam] SendUserConnectAndAuthenticate for '76561198962565865'
+[01:31:06]: [Steam] Authenticated client '76561198962565865'
+[01:31:09]: There is no active event to validate against.
+[01:31:09]: [Shard] Read save location file for (KU_H6259xgX)
+[01:31:40]: Resuming user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000052
+[01:31:40]: Spawning player at: [Load] (-350.75, -0.00, 241.57)	
+[01:32:00]: Could not find anim build FROMNUM
+[01:32:16]: Could not find anim build FROMNUM
+[01:32:21]: Could not find anim build FROMNUM
+[01:32:44]: Available disk space for save files: 9780 MB
+[01:32:44]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000053
+[01:32:44]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000053
+[01:32:44]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000053
+[01:32:44]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000053
+[01:32:44]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000053
+[01:32:44]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000053
+[01:32:44]: Serializing world: session/58DD4C21B0D12AE0/0000000053
+[01:33:27]: Could not find anim build FROMNUM
+[01:33:30]: Could not find anim build FROMNUM
+[01:33:30]: Could not find anim build FROMNUM
+[01:33:32]: Could not find anim build FROMNUM
+[01:33:33]: Could not find anim build FROMNUM
+[01:34:52]: Could not find anim build FROMNUM
+[01:34:53]: Could not find anim build FROMNUM
+[01:35:22]: Could not find anim build FROMNUM
+[01:36:14]: [Steam] SendUserDisconnect for '76561198962565865'
+[01:36:14]: Connection lost to 19.87.80.92|1 <9129186432786600675>
+[01:36:14]: [Shard] (KU_H6259xgX) disconnected from [SHDMASTER](1)
+[01:36:14]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000054
+[01:38:03]: Could not find anim build FROMNUM
+[01:38:09]: Could not find anim build FROMNUM
+[01:38:11]: Could not find anim build FROMNUM
+[01:38:43]: Could not find anim build FROMNUM
+[01:38:44]: Could not find anim build FROMNUM
+[01:38:46]: Could not find anim build FROMNUM
+[01:38:46]: New incoming connection 47.57.240.113|42668 <8895238896845190392>
+[01:38:46]: Client connected from 47.57.240.113|42668 <8895238896845190392>
+[01:38:46]: ValidateGameSessionToken GUID<8895238896845190392>
+[01:38:47]: Client authenticated: (KU_H6259xgX) 拉比
+[01:38:47]: [Steam] SendUserConnectAndAuthenticate for '76561198962565865'
+[01:38:47]: [Steam] Authenticated client '76561198962565865'
+[01:38:49]: There is no active event to validate against.
+[01:38:49]: [Shard] Read save location file for (KU_H6259xgX)
+[01:38:50]: [P2P] Received from 19.87.80.92|1 '76561198962565865'
+[01:38:50]: [P2P] Sent to 19.87.80.92|1 '76561198962565865'
+[01:38:52]: Could not find anim build FROMNUM
+[01:38:56]: Could not find anim build FROMNUM
+[01:39:14]: Resuming user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000054
+[01:39:14]: Spawning player at: [Load] (-359.64, -0.00, 164.13)	
+[01:39:16]: Could not find anim [death] in bank [ghost]
+[01:39:16]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000054
+[01:39:32]: Could not find anim build FROMNUM
+[01:39:35]: Could not find anim build FROMNUM
+[01:39:42]: Could not find anim build FROMNUM
+[01:39:44]: Could not find anim build FROMNUM
+[01:39:47]: Could not find anim build FROMNUM
+[01:39:48]: Could not find anim build FROMNUM
+[01:39:49]: Could not find anim build FROMNUM
+[01:39:50]: Could not find anim build FROMNUM
+[01:39:52]: Could not find anim build FROMNUM
+[01:39:52]: Could not find anim build FROMNUM
+[01:39:54]: Could not find anim build FROMNUM
+[01:39:56]: Could not find anim build FROMNUM
+[01:40:01]: Could not find anim build FROMNUM
+[01:40:02]: Could not find anim build FROMNUM
+[01:40:06]: Could not find anim build FROMNUM
+[01:40:08]: Could not find anim build FROMNUM
+[01:40:13]: Could not find anim build FROMNUM
+[01:40:14]: Could not find anim build FROMNUM
+[01:40:15]: Could not find anim build FROMNUM
+[01:40:16]: Could not find anim build FROMNUM
+[01:40:21]: Could not find anim build FROMNUM
+[01:40:40]: Could not find anim build FROMNUM
+[01:40:40]: Could not find anim build FROMNUM
+[01:40:42]: Could not find anim build FROMNUM
+[01:40:43]: Could not find anim build FROMNUM
+[01:40:44]: Could not find anim build FROMNUM
+[01:40:44]: Available disk space for save files: 9779 MB
+[01:40:45]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000054
+[01:40:45]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000054
+[01:40:45]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000054
+[01:40:45]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000054
+[01:40:45]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000054
+[01:40:45]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000054
+[01:40:45]: Serializing world: session/58DD4C21B0D12AE0/0000000054
+[01:40:46]: Could not find anim build FROMNUM
+[01:40:47]: Could not find anim build FROMNUM
+[01:40:50]: Could not find anim build FROMNUM
+[01:40:52]: Could not find anim build FROMNUM
+[01:40:56]: Could not find anim build FROMNUM
+[01:41:53]: Could not find anim [idle_loop] in bank [ghost]
+[01:41:56]: Could not find anim [transform] in bank [wilson]
+[01:41:57]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000055
+[01:42:10]: Could not find anim build FROMNUM
+[01:42:29]: Could not find anim build FROMNUM
+[01:42:35]: Could not find anim build FROMNUM
+[01:42:38]: Could not find anim build FROMNUM
+[01:42:43]: Could not find anim build FROMNUM
+[01:42:50]: Could not find anim build FROMNUM
+[01:43:23]: Could not find anim build FROMNUM
+[01:43:24]: Could not find anim build FROMNUM
+[01:43:30]: Could not find anim build FROMNUM
+[01:43:45]: Could not find anim build FROMNUM
+[01:43:53]: Could not find anim build FROMNUM
+[01:43:57]: Could not find anim build FROMNUM
+[01:44:24]: Could not find anim build FROMNUM
+[01:45:08]: Could not find anim [death] in bank [ghost]
+[01:45:08]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000055
+[01:45:17]: Could not find anim build FROMNUM
+[01:45:39]: Could not find anim [idle_loop] in bank [ghost]
+[01:45:42]: Could not find anim [transform] in bank [wilson]
+[01:45:44]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000055
+[01:48:45]: Available disk space for save files: 9774 MB
+[01:48:45]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000055
+[01:48:45]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000055
+[01:48:45]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000055
+[01:48:45]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000055
+[01:48:45]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000055
+[01:48:45]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000055
+[01:48:46]: Serializing world: session/58DD4C21B0D12AE0/0000000055
+[01:48:50]: Could not find anim [spawn] in bank [squiderp]
+[01:48:50]: Could not find anim [spawn] in bank [squiderp]
+[01:48:50]: [P2P] Session timed out for '76561198962565865'
+[01:48:50]: [P2P] Remove session: 19.87.80.92|1 '76561198962565865'
+[01:49:15]: Could not find anim build FROMNUM
+[01:52:45]: [P2P] Session request for '76561199130220937'
+[01:52:46]: New incoming connection 8.212.12.137|56116 <15746367166924749929>
+[01:52:46]: Client connected from 8.212.12.137|56116 <15746367166924749929>
+[01:52:46]: ValidateGameSessionToken GUID<15746367166924749929>
+[01:52:47]: Client authenticated: (KU_lTCHBkyy) 1601942889
+[01:52:47]: [Steam] SendUserConnectAndAuthenticate for '76561199130220937'
+[01:52:47]: [Steam] Authenticated client '76561199130220937'
+[01:52:48]: [P2P] Create session: 19.87.80.93|1 '76561199130220937'
+[01:52:48]: [P2P] Received from 19.87.80.93|1 '76561199130220937'
+[01:52:48]: [P2P] Sent to 19.87.80.93|1 '76561199130220937'
+[01:52:48]: There is no active event to validate against.
+[01:52:48]: [Shard] Read save location file for (KU_lTCHBkyy)
+[01:53:14]: Resuming user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000038
+[01:53:14]: Spawning player at: [Load] (4.77, 0.00, -3.09)	
+[01:54:08]: Could not find anim [death] in bank [ghost]
+[01:54:08]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000056
+[01:55:03]: Could not find anim build FROMNUM
+[01:55:09]: Could not find anim build FROMNUM
+[01:55:21]: Could not find anim build FROMNUM
+[01:55:23]: Could not find anim build FROMNUM
+[01:55:26]: Could not find anim build FROMNUM
+[01:55:29]: Could not find anim build FROMNUM
+[01:55:36]: Could not find anim build FROMNUM
+[01:56:03]: Could not find anim [death] in bank [ghost]
+[01:56:03]: Serializing user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000056
+[01:56:46]: Available disk space for save files: 9770 MB
+[01:56:46]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000056
+[01:56:46]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000056
+[01:56:46]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000056
+[01:56:46]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000056
+[01:56:46]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000056
+[01:56:46]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000056
+[01:56:46]: Serializing user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000056
+[01:56:46]: Serializing world: session/58DD4C21B0D12AE0/0000000056
+[01:56:53]: Could not find anim [idle_loop] in bank [ghost]
+[01:56:55]: Could not find anim [idle_loop] in bank [ghost]
+[01:56:56]: Could not find anim [transform] in bank [wilson]
+[01:56:57]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000057
+[01:56:58]: Serializing user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000057
+[01:57:30]: [Steam] SendUserDisconnect for '76561198962565865'
+[01:57:30]: Connection lost to 47.57.240.113|42668 <8895238896845190392>
+[01:57:30]: [Shard] (KU_H6259xgX) disconnected from [SHDMASTER](1)
+[01:57:31]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000057
+[01:58:07]: New incoming connection 47.57.240.113|49568 <5496420503851873799>
+[01:58:07]: Client connected from 47.57.240.113|49568 <5496420503851873799>
+[01:58:07]: ValidateGameSessionToken GUID<5496420503851873799>
+[01:58:08]: Client authenticated: (KU_H6259xgX) 拉比
+[01:58:08]: [Steam] SendUserConnectAndAuthenticate for '76561198962565865'
+[01:58:08]: [Steam] Authenticated client '76561198962565865'
+[01:58:10]: There is no active event to validate against.
+[01:58:10]: [Shard] Read save location file for (KU_H6259xgX)
+[01:58:11]: [P2P] Create session: 19.87.80.94|1 '76561198962565865'
+[01:58:11]: [P2P] Received from 19.87.80.94|1 '76561198962565865'
+[01:58:11]: [P2P] Sent to 19.87.80.94|1 '76561198962565865'
+[01:58:38]: Resuming user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000057
+[01:58:38]: Spawning player at: [Load] (-313.06, -0.00, 165.25)	
+[01:58:52]: Could not find anim build FROMNUM
+[01:58:57]: Could not find anim build FROMNUM
+[01:58:58]: Could not find anim build FROMNUM
+[01:59:02]: Could not find anim build FROMNUM
+[01:59:08]: Could not find anim build FROMNUM
+[01:59:32]: Could not find anim build FROMNUM
+[02:00:15]: [200] Account Communication Success (6)
+[02:00:15]: Received (KU_pvwb-Vrx) from TokenPurpose
+[02:00:17]: Deleting user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000057
+[02:00:17]: Resuming user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000057
+[02:01:04]: Spawn request: willow from 1601942889
+[02:01:04]: Skin request: () () () () ()
+[02:01:04]: Spawning player at: [Fixed] (-138.00, 0.00, -94.00)	
+[02:01:04]: Enabling Spawn Protection for	174365 - willow	
+[02:01:04]: Serializing user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000057
+[02:01:11]: Could not find anim build FROMNUM
+[02:01:13]: Could not find anim build FROMNUM
+[02:01:17]: Could not find anim build FROMNUM
+[02:01:18]: Could not find anim build FROMNUM
+[02:01:20]: Could not find anim build FROMNUM
+[02:01:21]: Could not find anim build FROMNUM
+[02:01:43]: Could not find anim build FROMNUM
+[02:02:02]: Could not find anim build FROMNUM
+[02:02:09]: Could not find anim build FROMNUM
+[02:02:11]: Could not find anim build FROMNUM
+[02:02:35]: Could not find anim build FROMNUM
+[02:02:48]: [P2P] Session timed out for '76561199130220937'
+[02:02:48]: [P2P] Remove session: 19.87.80.93|1 '76561199130220937'
+[02:03:08]: Could not find anim build FROMNUM
+[02:03:17]: Could not find anim build FROMNUM
+[02:03:38]: Could not find anim [spawn] in bank [squiderp]
+[02:03:39]: Could not find anim [spawn] in bank [squiderp]
+[02:04:18]: Could not find anim build FROMNUM
+[02:04:24]: New incoming connection 156.59.25.76|47484 <2449699247802768430>
+[02:04:24]: Client connected from 156.59.25.76|47484 <2449699247802768430>
+[02:04:24]: ValidateGameSessionToken GUID<2449699247802768430>
+[02:04:24]: Client authenticated: (KU_GoPRYhol) 先輩！好きッス！
+[02:04:24]: [Steam] SendUserConnectAndAuthenticate for '76561198097435845'
+[02:04:25]: [Steam] Authenticated client '76561198097435845'
+[02:04:26]: There is no active event to validate against.
+[02:04:26]: [Shard] Read save location file for (KU_GoPRYhol)
+[02:04:46]: Available disk space for save files: 9765 MB
+[02:04:47]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000057
+[02:04:47]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000057
+[02:04:47]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000057
+[02:04:47]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000057
+[02:04:47]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000057
+[02:04:47]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000057
+[02:04:47]: Serializing user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000057
+[02:04:47]: Serializing world: session/58DD4C21B0D12AE0/0000000057
+[02:05:33]: Resuming user: session/58DD4C21B0D12AE0/A7I34PDOLF5F/0000000025
+[02:05:33]: Spawning player at: [Load] (5.08, -0.00, -2.20)	
+[02:06:49]: Could not find anim [death] in bank [ghost]
+[02:06:50]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF5F/0000000058
+[02:07:40]: Could not find anim [idle_loop] in bank [ghost]
+[02:07:43]: Could not find anim [transform] in bank [wilson]
+[02:07:45]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF5F/0000000058
+[02:08:11]: [P2P] Session timed out for '76561198962565865'
+[02:08:11]: [P2P] Remove session: 19.87.80.94|1 '76561198962565865'
+[02:09:16]: Could not find anim build FROMNUM
+[02:09:19]: Could not find anim build FROMNUM
+[02:10:44]: Deleting user: session/58DD4C21B0D12AE0/A7I34PDOLF5F/0000000058
+[02:10:44]: Resuming user: session/58DD4C21B0D12AE0/A7I34PDOLF5F/0000000058
+[02:10:59]: Spawn request: wanda from 先輩！好きッス！
+[02:10:59]: Skin request: (wanda_none) (body_wilson_ice) (hand_wilson_ice) (legs_skirt_pleated_blue_winter) ()
+[02:10:59]: Spawning player at: [Fixed] (-138.00, 0.00, -94.00)	
+[02:10:59]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF5F/0000000058
+[02:11:12]: Could not find anim build FROMNUM
+[02:11:51]: [Steam] SendUserDisconnect for '76561198962565865'
+[02:11:51]: Connection lost to 47.57.240.113|49568 <5496420503851873799>
+[02:11:51]: [Shard] (KU_H6259xgX) disconnected from [SHDMASTER](1)
+[02:11:51]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000058
+[02:12:19]: New incoming connection 47.57.240.113|34407 <8002129567698503139>
+[02:12:19]: Client connected from 47.57.240.113|34407 <8002129567698503139>
+[02:12:19]: ValidateGameSessionToken GUID<8002129567698503139>
+[02:12:20]: Client authenticated: (KU_H6259xgX) 拉比
+[02:12:20]: [Steam] SendUserConnectAndAuthenticate for '76561198962565865'
+[02:12:21]: [P2P] Create session: 19.87.80.95|1 '76561198962565865'
+[02:12:21]: [P2P] Received from 19.87.80.95|1 '76561198962565865'
+[02:12:21]: [P2P] Sent to 19.87.80.95|1 '76561198962565865'
+[02:12:21]: [Steam] Authenticated client '76561198962565865'
+[02:12:22]: There is no active event to validate against.
+[02:12:22]: [Shard] Read save location file for (KU_H6259xgX)
+[02:12:47]: Available disk space for save files: 9761 MB
+[02:12:48]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000058
+[02:12:48]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000058
+[02:12:48]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000058
+[02:12:48]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000058
+[02:12:48]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000058
+[02:12:48]: Serializing user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000058
+[02:12:48]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF5F/0000000058
+[02:12:48]: Serializing world: session/58DD4C21B0D12AE0/0000000058
+[02:12:48]: Resuming user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000058
+[02:12:48]: Spawning player at: [Load] (-318.48, -0.00, 250.11)	
+[02:14:58]: Could not find anim [death] in bank [ghost]
+[02:14:58]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000059
+[02:15:33]: Could not find anim [idle_loop] in bank [ghost]
+[02:15:36]: Could not find anim [transform] in bank [wilson]
+[02:15:38]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000059
+[02:16:11]: Could not find anim [death] in bank [ghost]
+[02:16:11]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000059
+[02:16:42]: Could not find anim [idle_loop] in bank [ghost]
+[02:16:45]: Could not find anim [transform] in bank [wilson]
+[02:16:46]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000059
+[02:17:41]: Could not find anim [death] in bank [ghost]
+[02:17:41]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000059
+[02:17:58]: Could not find anim build FROMNUM
+[02:18:02]: Could not find anim build FROMNUM
+[02:18:03]: Could not find anim build FROMNUM
+[02:18:05]: Could not find anim build FROMNUM
+[02:18:07]: Could not find anim [idle_loop] in bank [ghost]
+[02:18:07]: Could not find anim build FROMNUM
+[02:18:07]: Could not find anim build FROMNUM
+[02:18:09]: Could not find anim [transform] in bank [wilson]
+[02:18:11]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000059
+[02:18:12]: Could not find anim build FROMNUM
+[02:18:14]: Could not find anim build FROMNUM
+[02:18:22]: Could not find anim build FROMNUM
+[02:18:28]: Could not find anim build FROMNUM
+[02:18:32]: Could not find anim build FROMNUM
+[02:18:43]: Could not find anim build FROMNUM
+[02:19:36]: Could not find anim build FROMNUM
+[02:19:43]: Could not find anim build FROMNUM
+[02:20:23]: Could not find anim build FROMNUM
+[02:20:27]: Could not find anim build FROMNUM
+[02:20:28]: Could not find anim build FROMNUM
+[02:20:31]: Could not find anim build FROMNUM
+[02:20:42]: Could not find anim [death] in bank [ghost]
+[02:20:42]: Serializing user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000059
+[02:20:49]: Could not find anim [idle_loop] in bank [ghost]
+[02:20:50]: Available disk space for save files: 9755 MB
+[02:20:50]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000059
+[02:20:50]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000059
+[02:20:50]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000059
+[02:20:50]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000059
+[02:20:50]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000059
+[02:20:50]: Serializing user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000059
+[02:20:50]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF5F/0000000059
+[02:20:50]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000059
+[02:20:51]: Serializing world: session/58DD4C21B0D12AE0/0000000059
+[02:20:52]: Serializing user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000060
+[02:21:22]: Could not find anim [death] in bank [ghost]
+[02:21:22]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000060
+[02:21:41]: Could not find anim [idle_loop] in bank [ghost]
+[02:21:43]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000060
+[02:22:21]: [P2P] Session timed out for '76561198962565865'
+[02:22:21]: [P2P] Remove session: 19.87.80.95|1 '76561198962565865'
+[02:22:33]: Could not find anim build FROMNUM
+[02:23:24]: [Steam] SendUserDisconnect for '76561199026636478'
+[02:23:24]: [Shard] (KU_GoPRYhoT) disconnected from [SHDMASTER](1)
+[02:23:25]: [Steam] SendUserDisconnect for '76561198962565865'
+[02:23:25]: [Shard] (KU_H6259xgX) disconnected from [SHDMASTER](1)
+[02:23:25]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000060
+[02:23:25]: Serializing user: session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000060
+[02:23:30]: [Steam] SendUserDisconnect for '76561198963683445'
+[02:23:30]: [Shard] (KU_V9vhY2RQ) disconnected from [SHDMASTER](1)
+[02:23:30]: Serializing user: session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000060
+[02:23:35]: [Steam] SendUserDisconnect for '76561198110731779'
+[02:23:35]: [Shard] (KU_pvwb-Vrx) disconnected from [SHDMASTER](1)
+[02:23:35]: Serializing user: session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000060
+[02:23:35]: Could not find anim build FROMNUM
+[02:23:42]: [Steam] SendUserDisconnect for '76561199012036761'
+[02:23:42]: [Shard] (KU_GoPRYhnc) disconnected from [SHDMASTER](1)
+[02:23:43]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000060
+[02:23:45]: [Steam] SendUserDisconnect for '76561198828631579'
+[02:23:45]: [Shard] (KU_UnXy3ttp) disconnected from [SHDMASTER](1)
+[02:23:45]: Serializing user: session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000060
+[02:23:48]: [Steam] SendUserDisconnect for '76561198097435845'
+[02:23:48]: [Shard] (KU_GoPRYhol) disconnected from [SHDMASTER](1)
+[02:23:48]: Serializing user: session/58DD4C21B0D12AE0/A7I34PDOLF5F/0000000060
+[02:23:57]: [Steam] SendUserDisconnect for '76561199130220937'
+[02:23:57]: [Shard] (KU_lTCHBkyy) disconnected from [SHDMASTER](1)
+[02:23:57]: Serializing user: session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000060
+[02:23:57]: Sim paused
+[02:24:34]: RemoteCommandInput: "c_shutdown()"
+[02:24:34]: c_shutdown	nil	
+[02:24:34]: Available disk space for save files: 9753 MB
+[02:24:35]: Serializing world: session/58DD4C21B0D12AE0/0000000060
+[02:24:35]: Truncating to snapshot #60...
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000042
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000043
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000044
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000045
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000046
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000047
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000048
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000049
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000050
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000051
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000052
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000053
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000054
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000054
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000053
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000052
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000051
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000050
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000049
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000048
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000047
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000046
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000045
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000037
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000054
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000053
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000052
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000051
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000050
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000049
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000048
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000047
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000046
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000045
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000013
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000054
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000053
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000052
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000051
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000050
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000049
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000048
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000047
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000046
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000038
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000054
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000053
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000052
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000051
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000050
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000049
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000048
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000047
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000046
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000045
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000041
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000054
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000053
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000052
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000051
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000037
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000052
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000051
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000050
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000049
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7M72M7HAOQ7/0000000037
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000054
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000053
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000052
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000051
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000050
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000049
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000048
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000047
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000046
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000045
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000037
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000050
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000049
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000048
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000047
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000046
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7N4PO5N711T/0000000045
+[02:24:35]:    83 file(s) removed
+[02:24:35]:  > session/58DD4C21B0D12AE0/A7MFJQIVJVBR/savelocation
+[02:24:35]:    1 file(s) updated
+[02:24:35]: Available disk space for save files: 9801 MB
+[02:24:35]: Serializing world: session/58DD4C21B0D12AE0/0000000061
+[02:24:35]: Truncating to snapshot #61...
+[02:24:35]:  - session/58DD4C21B0D12AE0/0000000055
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF36/0000000055
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I34PDOLF4T/0000000055
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7I4C22IFEL1/0000000055
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JR31U0UVFJ/0000000055
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7JSJPLOG9MQ/0000000055
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7LTQC8ITRPS/0000000038
+[02:24:35]:  - session/58DD4C21B0D12AE0/A7MFJQIVJVBR/0000000055
+[02:24:35]:    8 file(s) removed
+[02:24:35]: Removing server from lobby
+[02:24:35]: [Shard] Stopping shard mode
+[02:24:36]: [Steam] SendUserDisconnect for ''
+[02:24:36]: Collecting garbage...
+[02:24:36]: lua_gc took 0.55 seconds
+[02:24:36]: ~ShardLuaProxy()
+[02:24:36]: ~cEventLeaderboardProxy()
+[02:24:36]: ~ItemServerLuaProxy()
+[02:24:36]: ~InventoryLuaProxy()
+[02:24:36]: ~NetworkLuaProxy()
+[02:24:36]: ~SimLuaProxy()
+[02:24:36]: Cancelling LuaQueryCallback handle [459]
+[02:24:36]: Cancelling LuaQueryCallback handle [460]
+[02:24:36]: Cancelling LuaQueryCallback handle [461]
+[02:24:36]: Cancelling LuaQueryCallback handle [462]
+[02:24:36]: Cancelling LuaQueryCallback handle [463]
+[02:24:36]: Cancelling LuaQueryCallback handle [464]
+[02:24:37]: lua_close took 0.68 seconds
+[02:24:37]: CurlRequestManager::ClientThread::Main() complete
+[02:24:37]: HttpClient2 discarded 0 callbacks.
+[02:24:37]: Shutting down
